@@ -1,0 +1,739 @@
+YTDL4.1.py: 20200701-010204, Gurbax & @Beats Antique   - Dirty South.mp3,        url: https://www.youtube.com/watch?v=Z-R1Z4YkbXE&feature=share
+
+20200701-010221: required process-time:0:01:17.749647
+--------------------------------------
+
+20200702-010110: required process-time:0:00:06.922213
+--------------------------------------
+
+20200703-010106: required process-time:0:00:03.443379
+--------------------------------------
+
+20200704-010106: required process-time:0:00:03.291912
+--------------------------------------
+
+20200705-010107: required process-time:0:00:03.722529
+--------------------------------------
+
+20200706-010305: required process-time:0:02:02.336405
+--------------------------------------
+YTDL4.1.py: 20200706-171144, Water Lullaby.mp3,        url: https://music.youtube.com/watch?v=QtXsOCttVYI&feature=share
+YTDL4.1.py: 20200707-010209, Water Lullaby.mp3,        url: https://www.youtube.com/watch?v=QtXsOCttVYI
+YTDL4.1.py: 20200707-010319, Rituals.mp3,        url: https://www.youtube.com/watch?v=jqaZBNGBzxE
+YTDL4.1.py: 20200707-010436, Fakear - Carrie (Clip Officiel) ft. Alex Metric.mp3,        url: https://www.youtube.com/watch?v=hswYmINegds
+YTDL4.1.py: 20200707-010607, Fakear - Carrie (Clip Officiel) ft. Alex Metric.mp3,        url: https://www.youtube.com/watch?v=CyqmyAxyUSc
+YTDL4.1.py: 20200707-010743, Fakear - Carrie (Clip Officiel) ft. Alex Metric.mp3,        url: https://www.youtube.com/watch?v=sEKpFYi56N4
+YTDL4.1.py: 20200707-010912, Fakear - Carrie (Clip Officiel) ft. Alex Metric.mp3,        url: https://www.youtube.com/watch?v=26VSTFU8CqM
+YTDL4.1.py: 20200707-011038, Kaishi.mp3,        url: https://www.youtube.com/watch?v=VBtKTrfxjFA
+
+20200707-012215: required process-time:0:21:10.504718
+--------------------------------------
+YTDL4.1.py: 20200707-074523, Fakear - Sekoia (Official Video).mp3,        url: https://www.youtube.com/watch?v=sEKpFYi56N4&feature=share
+YTDL4.1.py: 20200707-074635, Fakear - Tadlo (Official Video).mp3,        url: https://www.youtube.com/watch?v=PbhyN3D-MMw&feature=share
+YTDL4.1.py: 20200708-010227, Fakear - Sekoia (Official Video).mp3,        url: https://www.youtube.com/watch?v=sEKpFYi56N4&feature=share
+YTDL4.1.py: 20200708-010335, Fakear - Tadlo (Official Video).mp3,        url: https://www.youtube.com/watch?v=PbhyN3D-MMw&feature=share
+YTDL4.1.py: 20200708-011433, Linked.mp3,        url: https://www.youtube.com/playlist?list=OLAK5uy_nY1q7BkyGDtYSbBmj3vdSILvlEEpYIJU0
+
+20200708-011551: required process-time:0:14:47.464611
+--------------------------------------
+
+20200709-010103: required process-time:0:00:00.522968
+--------------------------------------
+YTDL4.1.py: 20200710-010155, MEGALOH - Zombiemodus (Offizielles Musikvideo) (prod. Teka).mp3,        url: https://www.youtube.com/watch?v=a4nBrMsInbk&feature=share
+
+20200710-010213: required process-time:0:01:08.033891
+--------------------------------------
+YTDL4.1.py: 20200710-092452, Zugezogen Maskulin - Sommer Vorbei prod. by Silkersoft & AHZUMJOT.mp3,        url: https://www.youtube.com/watch?v=LCIqxI0ZaMg&feature=share
+
+20200710-092529: PROCESS NORMAL FINISHED!  required process-time:0:01:26.118073
+--------------------------------------
+YTDL4.1.py: 20200710-093229, Driva (feat. Biga Ranx & Sr. Wilson) (No GPS Mix).mp3,        url: https://www.youtube.com/watch?v=_z0_BVCXDMs&feature=share
+YTDL4.1.py: 20200710-093340, Le Peuple de l'Herbe_Svinkels - Monde de Merde.mp3,        url: https://www.youtube.com/watch?v=qeZIImhaluQ
+YTDL4.1.py: 20200710-093435, Biga_Ranx – Regarde-moi (Official Video).mp3,        url: https://www.youtube.com/watch?v=-yFOFg7-nV4
+YTDL4.1.py: 20200710-093529, Biga_Ranx – Regarde-moi (Official Video).mp3,        url: https://www.youtube.com/watch?v=a4nBrMsInbk
+YTDL4.1.py: 20200710-093628, Biga_Ranx – Regarde-moi (Official Video).mp3,        url: https://www.youtube.com/watch?v=bpdbNgsSUlo&feature=share
+
+20200710-093731: PROCESS NORMAL FINISHED!  required process-time:0:06:17.593308
+--------------------------------------
+YTDL4.1.py: 20200711-010213, The Architect - Jacqueline (Official Audio).mp3,        url: https://www.youtube.com/watch?v=eM_ahslilao&feature=share
+YTDL4.1.py: 20200711-010343, The Architect - Jacqueline (Official Audio).mp3,        url: https://www.youtube.com/watch?v=5FDRbMAoypU&feature=share
+YTDL4.1.py: 20200711-010424, Lemur - Formulare (Hochoffizielles Beinahevideo) [2020 Mit Gesichtern].mp3,        url: https://www.youtube.com/watch?v=ZnlN_AKMq_I&feature=share
+
+20200711-010519: PROCESS NORMAL FINISHED!  required process-time:0:04:15.808297
+--------------------------------------
+
+20200712-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.904183
+--------------------------------------
+
+20200713-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.575235
+--------------------------------------
+YTDL4.1.py: 20200714-010203, Juse Ju - Lovesongs (prod. Occupanther).mp3,        url: https://www.youtube.com/watch?v=XUkkmfkZb5s
+YTDL4.1.py: 20200714-010335, Zugezogen Maskulin - Der Müde Tod (prod. Kenji451).mp3,        url: https://www.youtube.com/watch?v=Ej_3FdO0Vmw
+YTDL4.1.py: 20200714-010445, Zugezogen Maskulin - Der Müde Tod (prod. Kenji451).mp3,        url: https://www.youtube.com/watch?v=sTs2gEnVLAE
+YTDL4.1.py: 20200714-010551, Zugezogen Maskulin - Der Müde Tod (prod. Kenji451).mp3,        url: https://www.youtube.com/watch?v=RW3Jxdp7nRc&feature=share
+
+20200714-010652: PROCESS NORMAL FINISHED!  required process-time:0:05:49.592894
+--------------------------------------
+
+20200715-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.504170
+--------------------------------------
+
+20200716-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.936052
+--------------------------------------
+
+20200721-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.003714
+--------------------------------------
+
+20200722-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.958807
+--------------------------------------
+
+20200723-010103: PROCESS NORMAL FINISHED!  required process-time:0:00:00.520662
+--------------------------------------
+
+20200724-010104: PROCESS NORMAL FINISHED!  required process-time:0:00:00.520222
+--------------------------------------
+
+20200725-010104: PROCESS NORMAL FINISHED!  required process-time:0:00:00.519836
+--------------------------------------
+YTDL4.1.py: 20200725-171702, STAND HIGH PATROL - Morning.mp3,        url: https://www.youtube.com/watch?v=sjUHA7N6BGI&feature=share
+YTDL4.1.py: 20200725-171759, The Architect - Tigerz Ft. Johaz (Official Video).mp3,        url: https://www.youtube.com/watch?v=9l6MWKlL-aA&feature=share
+YTDL4.1.py: 20200725-171856, The Architect - Tigerz Ft. Johaz (Official Video).mp3,        url: https://www.youtube.com/watch?v=gjPSJTbncHE&feature=share
+YTDL4.1.py: 20200725-172003, The Architect - Tigerz Ft. Johaz (Official Video).mp3,        url: https://www.youtube.com/watch?v=yFsopjIiLRY&feature=share
+YTDL4.1.py: 20200725-172116, The Architect - Darling (Official Video).mp3,        url: https://www.youtube.com/watch?v=p5kbdrLKUfU&feature=share
+YTDL4.1.py: 20200725-172224, The Architect - Darling (Official Video).mp3,        url: https://www.youtube.com/watch?v=quPmHpkAon4&feature=share
+
+20200725-172333: PROCESS NORMAL FINISHED!  required process-time:0:07:11.210928
+--------------------------------------
+YTDL4.1.py: 20200726-010209, STAND HIGH PATROL - Blues.mp3,        url: https://www.youtube.com/watch?v=0PjjbHLKJsM&feature=share
+YTDL4.1.py: 20200726-010309, STAND HIGH PATROL - Blues.mp3,        url: https://www.youtube.com/watch?v=Xrpf-N3RJxE&feature=share
+
+20200726-010355: PROCESS NORMAL FINISHED!  required process-time:0:02:52.260499
+--------------------------------------
+
+20200727-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.798326
+--------------------------------------
+
+20200728-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.988933
+--------------------------------------
+
+20200729-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.591592
+--------------------------------------
+
+20200730-010120: PROCESS NORMAL FINISHED!  required process-time:0:00:16.288897
+--------------------------------------
+
+20200730-063422: PROCESS NORMAL FINISHED!  required process-time:0:00:16.366409
+--------------------------------------
+YTDL4.1.py: 20200730-063823, Son Lux — 'Plans We Made' (Official Visualizer).mp3,        url: https://www.youtube.com/watch?v=hl5Kt0BxTa8
+
+20200730-063841: PROCESS NORMAL FINISHED!  required process-time:0:01:19.163251
+--------------------------------------
+YTDL4.1.py: 20200731-010201, Gorillaz - PAC-MAN ft. ScHoolboy Q (Episode Five).mp3,        url: https://www.youtube.com/watch?v=G-7U-FDql1A&feature=share
+YTDL4.1.py: 20200731-010256, M.I.A. - Bird Song (Diplo Remix_Audio).mp3,        url: https://www.youtube.com/watch?v=dBAmAyONR0s&feature=share
+YTDL4.1.py: 20200731-010400, M.I.A. - Bird Song (Diplo Remix_Audio).mp3,        url: https://www.youtube.com/watch?v=dr22sqX0MPw
+YTDL4.1.py: 20200731-011349, M.I.A. - Bird Song (Diplo Remix_Audio).mp3,        url: https://www.youtube.com/watch?v=DIKlPFHlLNM&feature=share
+
+20200731-011706: PROCESS NORMAL FINISHED!  required process-time:0:16:03.316982
+--------------------------------------
+
+20200801-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.245507
+--------------------------------------
+
+20200802-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.346043
+--------------------------------------
+
+20200803-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.397802
+--------------------------------------
+
+20200804-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.851865
+--------------------------------------
+
+20200805-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.873603
+--------------------------------------
+
+20200806-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.590731
+--------------------------------------
+
+20200807-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.775438
+--------------------------------------
+YTDL4.1.py: 20200808-010210, KITSCHKRIEG FEAT. ALLI NEUMANN & TRETTMANN - 'KEINE ANGST'.mp3,        url: https://www.youtube.com/watch?v=cssz55sbQTw&feature=share
+YTDL4.1.py: 20200808-010308, KITSCHKRIEG FEAT. ALLI NEUMANN & TRETTMANN - 'KEINE ANGST'.mp3,        url: https://www.youtube.com/watch?v=zN9Gf-TwZTU&feature=share
+YTDL4.1.py: 20200808-010357, Zugezogen Maskulin - Tanz auf dem Vulkan (Official Audio) prod. AHZUMJOT & Silkersoft.mp3,        url: https://www.youtube.com/watch?v=bpdbNgsSUlo&feature=share
+YTDL4.1.py: 20200808-010441, Zugezogen Maskulin - EXIT prod. by AHZUMJOT & LEV.mp3,        url: https://www.youtube.com/watch?v=QddXA1QIpes
+YTDL4.1.py: 20200808-010536, Zugezogen Maskulin - EXIT prod. by AHZUMJOT & LEV.mp3,        url: https://www.youtube.com/watch?v=LCIqxI0ZaMg&feature=share
+
+20200808-010625: PROCESS NORMAL FINISHED!  required process-time:0:05:22.835110
+--------------------------------------
+
+20200809-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.578328
+--------------------------------------
+YTDL4.1.py: 20200810-010205, KITSCHKRIEG FEAT. MODESELEKTOR & CRACK IGNAZ - 'NEIN DU LIEBST MICH NICHT'.mp3,        url: https://www.youtube.com/watch?v=sEieyQ5dhXY&feature=share
+
+20200810-010225: PROCESS NORMAL FINISHED!  required process-time:0:01:22.530119
+--------------------------------------
+YTDL4.1.py: 20200811-010212, KITSCHKRIEG FEAT. JAMULE - 'UNTERWEGS' (OFFICIAL VIDEO).mp3,        url: https://www.youtube.com/watch?v=vHp5LQafb6Y
+YTDL4.1.py: 20200811-010259, KITSCHKRIEG FEAT. JAMULE - 'UNTERWEGS' (OFFICIAL VIDEO).mp3,        url: https://www.youtube.com/watch?v=LCIqxI0ZaMg&feature=share
+YTDL4.1.py: 20200811-010359, PÖBEL MC - Toyanisches Pferd (beat by Pavel) [Sehr Official Video].mp3,        url: https://www.youtube.com/watch?v=Fjn2thnrQK8
+YTDL4.1.py: 20200811-010456, PÖBEL MC - Toyanisches Pferd (beat by Pavel) [Sehr Official Video].mp3,        url: https://www.youtube.com/watch?v=NK_xJo0wWsQ
+YTDL4.1.py: 20200811-010554, PÖBEL MC - Toyanisches Pferd (beat by Pavel) [Sehr Official Video].mp3,        url: https://www.youtube.com/watch?v=bpdbNgsSUlo&feature=share
+YTDL4.1.py: 20200811-010717, PÖBEL MC - Toyanisches Pferd (beat by Pavel) [Sehr Official Video].mp3,        url: https://www.youtube.com/watch?v=8V0awwc_KUw&feature=share
+YTDL4.1.py: 20200811-010838, PÖBEL MC - Toyanisches Pferd (beat by Pavel) [Sehr Official Video].mp3,        url: https://www.youtube.com/watch?v=BtzefmIK2Us&feature=share
+
+20200811-010959: PROCESS NORMAL FINISHED!  required process-time:0:08:56.009162
+--------------------------------------
+
+20200812-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.923928
+--------------------------------------
+YTDL4.1.py: 20200813-010153, Zugezogen Maskulin - Normiefest v0.5 prod. hnrk.mp3,        url: https://www.youtube.com/watch?v=VZvFfcGp2jQ&feature=share
+
+20200813-010234: PROCESS NORMAL FINISHED!  required process-time:0:01:31.075784
+--------------------------------------
+
+20200814-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.671788
+--------------------------------------
+
+20200815-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.702863
+--------------------------------------
+
+20200816-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.388457
+--------------------------------------
+
+20200817-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.720858
+--------------------------------------
+
+20200818-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.639057
+--------------------------------------
+
+20200819-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.787508
+--------------------------------------
+
+20200820-010110: PROCESS NORMAL FINISHED!  required process-time:0:00:04.302809
+--------------------------------------
+
+20200821-010103: PROCESS NORMAL FINISHED!  required process-time:0:00:00.521014
+--------------------------------------
+
+20200822-010104: PROCESS NORMAL FINISHED!  required process-time:0:00:00.523805
+--------------------------------------
+
+20200823-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.467862
+--------------------------------------
+
+20200824-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.295527
+--------------------------------------
+
+20200825-010109: PROCESS NORMAL FINISHED!  required process-time:0:00:03.871500
+--------------------------------------
+
+20200830-010105: PROCESS NORMAL FINISHED!  required process-time:0:00:00.678410
+--------------------------------------
+
+20200902-010105: PROCESS NORMAL FINISHED!  required process-time:0:00:00.652364
+--------------------------------------
+
+20200904-010109: PROCESS NORMAL FINISHED!  required process-time:0:00:03.796102
+--------------------------------------
+
+20200905-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:00.702967
+--------------------------------------
+YTDL4.1.py: 20200905-115439, Zugezogen Maskulin - Der Erfolg prod. by SILKERSOFT & AHZUMJOT.mp3,        url: https://www.youtube.com/watch?v=ZciyCcvVEHg
+
+20200905-115458: PROCESS NORMAL FINISHED!  required process-time:0:01:10.336101
+--------------------------------------
+
+20200906-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.303596
+--------------------------------------
+
+20200907-010105: PROCESS NORMAL FINISHED!  required process-time:0:00:00.646237
+--------------------------------------
+
+20200908-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.612068
+--------------------------------------
+
+20200909-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.752433
+--------------------------------------
+YTDL4.1.py: 20200910-010218, Antilopen Gang - Gestern war nicht besser feat. Tribes Of Jizu (Loop Session).mp3,        url: https://www.youtube.com/watch?v=cwTUgdiKnO0
+YTDL4.1.py: 20200910-010336, Antilopen Gang - Gestern war nicht besser feat. Tribes Of Jizu (Loop Session).mp3,        url: https://www.youtube.com/watch?v=z3X0x4hSnzQ&feature=share
+YTDL4.1.py: 20200910-010506, Son Lux — 'Undertow' (Official Audio).mp3,        url: https://www.youtube.com/watch?v=DREj7ZM0V0A&feature=share
+YTDL4.1.py: 20200910-010624, Son Lux — 'Undertow' (Official Audio).mp3,        url: https://www.youtube.com/watch?v=zy0No4DdpW0&feature=share
+
+20200910-010736: PROCESS NORMAL FINISHED!  required process-time:0:06:30.901864
+--------------------------------------
+YTDL4.1.py: 20200911-010206, Turn Down For What Bass Boosted.mp3,        url: https://www.youtube.com/watch?v=e6HL00lXZRQ&feature=share
+
+20200911-010226: PROCESS NORMAL FINISHED!  required process-time:0:01:21.734396
+--------------------------------------
+YTDL4.1.py: 20200912-010152, Die Orsons feat. TeddyComedy - Was labersch Du (Exclusive).mp3,        url: https://www.youtube.com/watch?v=DiSw0PIc8ws
+
+20200912-010209: PROCESS NORMAL FINISHED!  required process-time:0:01:06.542540
+--------------------------------------
+
+20200913-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.451481
+--------------------------------------
+YTDL4.1.py: 20200914-010214, Der Plot - Da Warten (prod. von DONKONG).mp3,        url: https://www.youtube.com/watch?v=_pUVKFh9XwY&feature=share
+
+20200914-010234: PROCESS NORMAL FINISHED!  required process-time:0:01:30.692873
+--------------------------------------
+
+20200915-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.903395
+--------------------------------------
+
+20200916-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.325704
+--------------------------------------
+YTDL4.1.py: 20200917-010150, Zugezogen Maskulin - Der Erfolg prod. by SILKERSOFT & AHZUMJOT.mp3,        url: https://www.youtube.com/watch?v=ZciyCcvVEHg
+
+20200917-010202: PROCESS NORMAL FINISHED!  required process-time:0:00:59.512868
+--------------------------------------
+
+20200918-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.558074
+--------------------------------------
+
+20200919-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.779484
+--------------------------------------
+
+20200920-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.487795
+--------------------------------------
+
+20200921-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.449541
+--------------------------------------
+
+20200922-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.903142
+--------------------------------------
+
+20200923-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.664184
+--------------------------------------
+
+20200924-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.359158
+--------------------------------------
+
+20200925-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.009823
+--------------------------------------
+
+20200926-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.408710
+--------------------------------------
+YTDL4.1.py: 20200927-010946, KITSCHKRIEG - ALBUM @ KÖNIG GALERIE.mp3,        url: https://www.youtube.com/watch?v=eI7sactHtLQ&feature=share
+
+20200927-011141: PROCESS NORMAL FINISHED!  required process-time:0:10:38.090716
+--------------------------------------
+
+20200928-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.418745
+--------------------------------------
+
+20200929-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.423583
+--------------------------------------
+
+20200930-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.318053
+--------------------------------------
+
+20201001-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.672443
+--------------------------------------
+
+20201002-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.467774
+--------------------------------------
+
+20201003-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.849753
+--------------------------------------
+
+20201004-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.439877
+--------------------------------------
+
+20201005-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.417141
+--------------------------------------
+
+20201006-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.567865
+--------------------------------------
+YTDL4.1.py: 20201007-010204, Boogie Dola.mp3,        url: https://www.youtube.com/watch?v=zz6GhaNFCfw&feature=share
+YTDL4.1.py: 20201007-010303, Boogie Dola.mp3,        url: https://www.youtube.com/watch?v=h2oRxAogzcw&feature=share
+YTDL4.1.py: 20201007-010416, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=HR5pkmCAvhs&feature=share
+YTDL4.1.py: 20201007-010524, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=vwYgCFH2d9U&feature=share
+YTDL4.1.py: 20201007-010633, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=xRCHEazE5bg&feature=share
+YTDL4.1.py: 20201007-010749, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=gGNKXsw_0Iw&feature=share
+YTDL4.1.py: 20201007-010906, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=hSGfVPw-DUk&feature=share
+YTDL4.1.py: 20201007-011026, Jacqueline.mp3,        url: https://www.youtube.com/watch?v=9l6MWKlL-aA&feature=share
+
+20201007-011147: PROCESS NORMAL FINISHED!  required process-time:0:10:43.750579
+--------------------------------------
+
+20201008-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.805356
+--------------------------------------
+
+20201009-010109: PROCESS NORMAL FINISHED!  required process-time:0:00:04.956771
+--------------------------------------
+
+20201010-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.890469
+--------------------------------------
+
+20201011-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.781532
+--------------------------------------
+
+20201012-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.849819
+--------------------------------------
+
+20201013-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.726165
+--------------------------------------
+
+20201014-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.703990
+--------------------------------------
+
+20201015-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.855565
+--------------------------------------
+
+20201016-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.782197
+--------------------------------------
+
+20201017-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.637634
+--------------------------------------
+
+20201018-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.621041
+--------------------------------------
+
+20201019-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.363603
+--------------------------------------
+
+20201020-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.963378
+--------------------------------------
+
+20201021-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.960361
+--------------------------------------
+
+20201022-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.678422
+--------------------------------------
+
+20201023-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.923719
+--------------------------------------
+
+20201024-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.844337
+--------------------------------------
+YTDL4.1.py: 20201025-010910, The Architect - Le Coeur Au Bout Des Doigts (Official Mix).mp3,        url: https://www.youtube.com/watch?v=89hJKyEg3OE&feature=share
+YTDL4.1.py: 20201025-012047, Chinese Man - The Groove Sessions vol.3 (Full Album).mp3,        url: https://www.youtube.com/watch?v=bKRbY9bgeQE&feature=share
+YTDL4.1.py: 20201025-012251, Chinese Man - The Groove Sessions vol.3 (Full Album).mp3,        url: https://www.youtube.com/watch?v=PPn-Al-OWTk&feature=share
+
+20201025-012556: PROCESS NORMAL FINISHED!  required process-time:0:24:52.555015
+--------------------------------------
+YTDL4.1.py: 20201026-010209, Taiwan MC - Hot Today (Music Video).mp3,        url: https://www.youtube.com/watch?v=DzcQBdN2DUw&feature=share
+YTDL4.1.py: 20201026-010322, Taiwan MC - Hot Today (Music Video).mp3,        url: https://www.youtube.com/watch?v=ZibjFVr8s3U&feature=share
+YTDL4.1.py: 20201026-011547, Chinese Man - Shikantaza (Full Album).mp3,        url: https://www.youtube.com/watch?v=-0rgtxLF-B0&feature=share
+
+20201026-011858: PROCESS NORMAL FINISHED!  required process-time:0:17:54.323044
+--------------------------------------
+
+20201027-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.909508
+--------------------------------------
+
+20201028-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.360843
+--------------------------------------
+
+20201029-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.892319
+--------------------------------------
+
+20201030-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.889241
+--------------------------------------
+
+20201031-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.724202
+--------------------------------------
+YTDL4.1.py: 20201101-010830, Kewii Selecta, Vol 1. (L'entourloop VS Smokey Joe & The Kid).mp3,        url: https://www.youtube.com/watch?v=q7mKE7KW0vg&feature=share
+
+20201101-011010: PROCESS NORMAL FINISHED!  required process-time:0:09:07.325211
+--------------------------------------
+
+20201102-010157: PROCESS NORMAL FINISHED!  required process-time:0:00:53.699978
+--------------------------------------
+
+20201103-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.032770
+--------------------------------------
+
+20201104-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.007691
+--------------------------------------
+
+20201105-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.812155
+--------------------------------------
+
+20201106-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.193680
+--------------------------------------
+
+20201107-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.290299
+--------------------------------------
+
+20201108-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.014073
+--------------------------------------
+
+20201109-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.896587
+--------------------------------------
+YTDL4.1.py: 20201110-010155, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://www.youtube.com/watch?v=SspdB4QsJQk&feature=share
+
+20201110-010212: PROCESS NORMAL FINISHED!  required process-time:0:01:08.899910
+--------------------------------------
+YTDL4.1.py: 20201111-010219, GAËL FAYE - TÔT LE MATIN.mp3,        url: https://www.youtube.com/watch?v=NY_NoXztk-U&feature=share
+YTDL4.1.py: 20201111-010305, GAËL FAYE - TÔT LE MATIN.mp3,        url: https://www.youtube.com/watch?v=juAORsvotSQ&feature=share
+YTDL4.1.py: 20201111-010400, GAËL FAYE - TÔT LE MATIN.mp3,        url: https://www.youtube.com/watch?v=FA3TzVKAJF4&feature=share
+YTDL4.1.py: 20201111-010506, GAËL FAYE - TÔT LE MATIN.mp3,        url: https://www.youtube.com/watch?v=jT6yx2kTvFQ&feature=share
+
+20201111-010556: PROCESS NORMAL FINISHED!  required process-time:0:04:53.086822
+--------------------------------------
+
+20201112-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.020568
+--------------------------------------
+
+20201113-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.083030
+--------------------------------------
+
+20201114-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.953751
+--------------------------------------
+
+20201115-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.831465
+--------------------------------------
+
+20201116-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.266887
+--------------------------------------
+
+20201117-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.759461
+--------------------------------------
+
+20201118-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.843355
+--------------------------------------
+
+20201119-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.108003
+--------------------------------------
+
+20201120-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.717783
+--------------------------------------
+
+20201121-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.696133
+--------------------------------------
+
+20201122-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.791034
+--------------------------------------
+YTDL4.1.py: 20201123-010153, Chinese Man presents  - Rumble - BadXGood feat. Too Many T's (Music Video).mp3,        url: https://www.youtube.com/watch?v=fY3k9PLX63w&feature=share
+YTDL4.1.py: 20201123-012046, Chinese Man presents  - Rumble - BadXGood feat. Too Many T's (Music Video).mp3,        url: https://www.youtube.com/watch?v=rdE5k5_6jv4&feature=share
+
+20201123-012656: PROCESS NORMAL FINISHED!  required process-time:0:25:53.199061
+--------------------------------------
+
+20201124-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.746458
+--------------------------------------
+
+20201125-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.067813
+--------------------------------------
+
+20201126-010119: PROCESS NORMAL FINISHED!  required process-time:0:00:16.349147
+--------------------------------------
+
+20201127-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.755669
+--------------------------------------
+
+20201128-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.879697
+--------------------------------------
+YTDL4.1.py: 20201129-010219, Solomun - Kackvogel (music video).mp3,        url: https://www.youtube.com/watch?v=9tBOtSPrNik&feature=share
+YTDL4.1.py: 20201129-010347, Chinese Man feat. ASM - Wolf Live (Natura'Live 2019).mp3,        url: https://www.youtube.com/watch?v=1XOlMrn6k9o&feature=share
+YTDL4.1.py: 20201129-010455, Mr Government (feat. Eek-A-Mouse).mp3,        url: https://www.youtube.com/watch?v=gsBdPEKNnYA&feature=share
+YTDL4.1.py: 20201129-011447, Mr Government (feat. Eek-A-Mouse).mp3,        url: https://www.youtube.com/watch?v=DIKlPFHlLNM&feature=share
+YTDL4.1.py: 20201129-011656, Want It Back (feat. Guts, Patrice) (L'Entourloop & Troy Berkley Remix).mp3,        url: https://www.youtube.com/watch?v=-fBORRYCVeA&feature=share
+
+20201129-011829: PROCESS NORMAL FINISHED!  required process-time:0:17:25.528234
+--------------------------------------
+
+20201130-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.985612
+--------------------------------------
+
+20201201-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.059835
+--------------------------------------
+
+20201202-010118: PROCESS NORMAL FINISHED!  required process-time:0:00:14.963192
+--------------------------------------
+
+20201203-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.710502
+--------------------------------------
+
+20201204-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:03.815513
+--------------------------------------
+
+20201205-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.884397
+--------------------------------------
+
+20201205-195606: PROCESS NORMAL FINISHED!  required process-time:0:00:03.674886
+--------------------------------------
+
+20201206-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.729565
+--------------------------------------
+
+20201207-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.647022
+--------------------------------------
+
+20201208-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.716082
+--------------------------------------
+
+20201209-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.561208
+--------------------------------------
+
+20201210-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.859893
+--------------------------------------
+
+20201211-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.105874
+--------------------------------------
+
+20201212-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.959745
+--------------------------------------
+
+20201213-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.021377
+--------------------------------------
+
+20201215-010109: PROCESS NORMAL FINISHED!  required process-time:0:00:03.842869
+--------------------------------------
+
+20201216-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.089442
+--------------------------------------
+
+20201217-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.867597
+--------------------------------------
+
+20201218-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.144647
+--------------------------------------
+
+20201219-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.672528
+--------------------------------------
+
+20201220-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.694297
+--------------------------------------
+
+20201221-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.105288
+--------------------------------------
+
+20201222-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.821978
+--------------------------------------
+
+20201223-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.852087
+--------------------------------------
+
+20201224-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.503445
+--------------------------------------
+
+20201225-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.111527
+--------------------------------------
+
+20201226-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.577442
+--------------------------------------
+
+20201227-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.993283
+--------------------------------------
+
+20201228-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.753605
+--------------------------------------
+
+20201229-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.826931
+--------------------------------------
+
+20201230-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.784068
+--------------------------------------
+
+20201231-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.181575
+--------------------------------------
+
+20210101-010144: PROCESS NORMAL FINISHED!  required process-time:0:00:41.244856
+--------------------------------------
+YTDL4.1.py: 20210101-181129, Fatoni & Edgar Wasser – Realität (prod. by Torky).mp3,        url: https://youtube.com/watch?v=HOOwM14e7xw&feature=share
+
+20210101-181146: PROCESS NORMAL FINISHED!  required process-time:0:01:05.602885
+--------------------------------------
+YTDL4.1.py: 20210101-215306, Jamie xx - Gosh.mp3,        url: https://youtube.com/watch?v=hTGJfRPLe08&feature=share
+YTDL4.1.py: 20210102-010224, Jamie xx - Gosh.mp3,        url: https://youtube.com/watch?v=hTGJfRPLe08&feature=share
+YTDL4.1.py: 20210102-010313, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=SspdB4QsJQk&feature=share
+YTDL4.1.py: 20210102-010429, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=9tBOtSPrNik&feature=share
+YTDL4.1.py: 20210102-010533, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=LgDIxq8wcHY&feature=share
+YTDL4.1.py: 20210102-010640, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=YbBU06irWT8&feature=share
+YTDL4.1.py: 20210102-010749, Heliumballon.mp3,        url: https://youtube.com/watch?v=5pVbCBurwbs&feature=share
+
+20210102-010903: PROCESS NORMAL FINISHED!  required process-time:0:07:59.027659
+--------------------------------------
+YTDL4.1.py: 20210103-010210, L'ENTOURLOOP Ft. Capleton - Burn Dem Down (Official Audio).mp3,        url: https://youtube.com/watch?v=GdAw0olk4o0&feature=share
+YTDL4.1.py: 20210103-010820, SH.MIXTAPE.64 _ O.B.F.mp3,        url: https://youtube.com/watch?v=KP16_KL-g7Y&feature=share
+
+20210103-012743: PROCESS NORMAL FINISHED!  required process-time:0:26:40.650984
+--------------------------------------
+YTDL4.1.py: 20210104-010240, DID YOU LEAVE ME - RULAKE GAYA_YOU ARE ALWAYS IN MY MIND.mp3,        url: https://youtube.com/watch?v=bPXO5cvfkf4&feature=share
+YTDL4.1.py: 20210104-010342, DID YOU LEAVE ME - RULAKE GAYA_YOU ARE ALWAYS IN MY MIND.mp3,        url: https://youtube.com/watch?v=5CFVK1BkmSA&feature=share
+YTDL4.1.py: 20210104-010435, DID YOU LEAVE ME - RULAKE GAYA_YOU ARE ALWAYS IN MY MIND.mp3,        url: https://youtube.com/watch?v=PETDbHy2qH4&feature=share
+YTDL4.1.py: 20210104-010548, KOLLEKTIV TURMSTRASSE - Sorry I Am Late (Official Video).mp3,        url: https://youtube.com/watch?v=wwZbonjAlPc&feature=share
+YTDL4.1.py: 20210104-010652, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=SspdB4QsJQk&feature=share
+YTDL4.1.py: 20210104-010809, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=GRbREH68NW4&feature=share
+YTDL4.1.py: 20210104-010928, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=OgyndXA8kYA&feature=share
+
+20210104-011916: PROCESS NORMAL FINISHED!  required process-time:0:18:13.619641
+--------------------------------------
+
+20210104-180904: PROCESS NORMAL FINISHED!  required process-time:0:01:32.645741
+--------------------------------------
+
+20210105-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.057775
+--------------------------------------
+YTDL4.1.py: 20210106-011333, M̲oby - P̲lay (Full Album).mp3,        url: https://youtube.com/watch?v=LfluICo7tPY&feature=share
+YTDL4.1.py: 20210106-011534, M̲oby - P̲lay (Full Album).mp3,        url: https://youtube.com/watch?v=Qtpkby5bY2A&feature=share
+YTDL4.1.py: 20210106-011647, M̲oby - P̲lay (Full Album).mp3,        url: https://youtube.com/watch?v=gt8ESdK0tK4&feature=share
+
+20210106-011912: PROCESS NORMAL FINISHED!  required process-time:0:18:08.828285
+--------------------------------------
+
+20210107-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.346550
+--------------------------------------
+
+20210108-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.004605
+--------------------------------------
+
+20210109-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.995333
+--------------------------------------
+
+20210110-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.908362
+--------------------------------------
+
+20210111-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.708981
+--------------------------------------
+
+20210112-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.993205
+--------------------------------------
+
+20210113-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.117790
+--------------------------------------
+
+20210114-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.329650
+--------------------------------------
+YTDL4.1.py: 20210115-010159, Audio88 & Yassin - KLINGELTON (Offizielles Video).mp3,        url: https://youtube.com/watch?v=8qn3L5tUz2s&feature=share
+YTDL4.1.py: 20210115-010255, Fatoni – Vorurteile Pt. II feat. Antilopen Gang & Juse Ju (prod. The Gunna) – 2014 HQ.mp3,        url: https://youtube.com/watch?v=kMIzqqMoDI8&feature=share
+YTDL4.1.py: 20210115-010357, Fatoni & Edgar Wasser – Check uns aus! (prod. Cap Kendricks) – 2013 HQ.mp3,        url: https://youtube.com/watch?v=QgkxDpwoaCc&feature=share
+YTDL4.1.py: 20210115-010454, Fatoni – C'mon das geht auch klüger (prod. PH7) – 2015 HQ.mp3,        url: https://youtube.com/watch?v=6kaLiB32Mq0&feature=share
+
+20210115-010545: PROCESS NORMAL FINISHED!  required process-time:0:04:42.155865
+--------------------------------------
+
+20210116-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.063586
+--------------------------------------
+
+20210117-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.011837
+--------------------------------------
+
+20210118-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.872815
+--------------------------------------
+
+20210119-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.847162
+--------------------------------------
+
+20210120-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.695252
+--------------------------------------
+
+20210121-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.134612
+--------------------------------------
+
+20210122-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.916699
+--------------------------------------
+
+20210123-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.686978
+--------------------------------------
+
+20210124-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.147334
+--------------------------------------
+YTDL4.1.py: 20210125-010150, Audio88 & Yassin - LAUF (prod. von Bazzazian) [Offizielles Video].mp3,        url: https://youtube.com/watch?v=IUs8Ct5oD7k&feature=share
+
+20210125-010206: PROCESS NORMAL FINISHED!  required process-time:0:01:02.765431
+--------------------------------------
+YTDL4.1.py: 20210126-010155, The Architect - Boogie Dola Ft. Troy Berkley & Killa P (Official Audio).mp3,        url: https://youtube.com/watch?v=C8FN-x5lXps&feature=share
+
+20210126-010215: PROCESS NORMAL FINISHED!  required process-time:0:01:10.469293
+--------------------------------------
