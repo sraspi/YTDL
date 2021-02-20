@@ -737,3 +737,93 @@ YTDL4.1.py: 20210126-010155, The Architect - Boogie Dola Ft. Troy Berkley & Kill
 
 20210126-010215: PROCESS NORMAL FINISHED!  required process-time:0:01:10.469293
 --------------------------------------
+
+20210127-010108: PROCESS NORMAL FINISHED!  required process-time:0:00:04.561357
+--------------------------------------
+
+20210128-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.280883
+--------------------------------------
+
+20210129-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.356926
+--------------------------------------
+
+20210130-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.815148
+--------------------------------------
+
+20210131-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.591508
+--------------------------------------
+
+20210201-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.591221
+--------------------------------------
+
+20210202-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.848869
+--------------------------------------
+YTDL4.1.py: 20210203-010209, Chinese Man presents  - Rumble - InLakesh (Music Video).mp3,        url: https://youtube.com/watch?v=lRAojPfaEgg&feature=share
+
+20210203-010230: PROCESS NORMAL FINISHED!  required process-time:0:01:26.703162
+--------------------------------------
+YTDL4.1.py: 20210204-010232, King Gizzard & The Lizard Wizard - Straws In The Wind.mp3,        url: https://youtube.com/watch?v=ioqgrYorhkU&feature=share
+YTDL4.1.py: 20210204-010336, King Gizzard & The Lizard Wizard - Straws In The Wind.mp3,        url: https://youtube.com/watch?v=ntbNRUycbD4&feature=share
+YTDL4.1.py: 20210204-010450, King Gizzard & The Lizard Wizard - Straws In The Wind.mp3,        url: https://youtube.com/watch?v=ADj2jDqT4uY&feature=share
+
+20210204-011450: PROCESS NORMAL FINISHED!  required process-time:0:13:47.241463
+--------------------------------------
+YTDL4.1.py: 20210205-010154, Audio88 & Yassin - KLINGELTON (Offizielles Video).mp3,        url: https://youtube.com/watch?v=8qn3L5tUz2s&feature=share
+YTDL4.1.py: 20210205-010244, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=SspdB4QsJQk&feature=share
+YTDL4.1.py: 20210205-010337, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=VECrJJ17SYQ&feature=share
+
+20210205-010407: PROCESS NORMAL FINISHED!  required process-time:0:03:04.269658
+--------------------------------------
+
+20210206-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.948236
+--------------------------------------
+
+20210207-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.487400
+--------------------------------------
+
+20210208-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.901002
+--------------------------------------
+
+20210209-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.764222
+--------------------------------------
+
+20210210-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.600553
+--------------------------------------
+
+20210211-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.718548
+--------------------------------------
+YTDL4.1.py: 20210212-010222, The Chemical Brothers - Another World (Official Music Video).mp3,        url: https://youtube.com/watch?v=fhzkeFiXfPI&feature=share
+YTDL4.1.py: 20210212-010310, The Chemical Brothers - Another World (Official Music Video).mp3,        url: https://youtube.com/watch?v=dVkMTXFD4mM&feature=share
+YTDL4.1.py: 20210212-010358, The Chemical Brothers - Another World (Official Music Video).mp3,        url: https://youtube.com/watch?v=_wIci7ZseRA&feature=share
+YTDL4.1.py: 20210212-010511, The Chemical Brothers - Another World (Official Music Video).mp3,        url: https://youtube.com/watch?v=AcuB-6HhqhQ&feature=share
+
+20210212-010601: PROCESS NORMAL FINISHED!  required process-time:0:04:57.671102
+--------------------------------------
+
+20210213-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.602593
+--------------------------------------
+
+20210214-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.653099
+--------------------------------------
+
+20210215-010106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.540998
+--------------------------------------
+
+20210216-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.051105
+--------------------------------------
+YTDL4.1.py: 20210217-010157, Fließbandjob.mp3,        url: https://youtube.com/watch?v=HVOHZKm7IMY&feature=share
+YTDL4.1.py: 20210217-010248, Audio88 & Yassin - SCHLECHTES GEWISSEN (Offizielles Video).mp3,        url: https://youtube.com/watch?v=SspdB4QsJQk&feature=share
+
+20210217-010310: PROCESS NORMAL FINISHED!  required process-time:0:02:07.261044
+--------------------------------------
+
+20210218-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.020856
+--------------------------------------
+
+20210219-010107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.187382
+--------------------------------------
+YTDL4.1.py: 20210220-010220, Massive Attack, Young Fathers - Voodoo In My Blood.mp3,        url: https://youtube.com/watch?v=ElvLZMsYXlo&feature=share
+YTDL4.1.py: 20210220-010342, Massive Attack, Young Fathers - Voodoo In My Blood.mp3,        url: https://youtube.com/watch?v=yhS9LnDoo_w&feature=share
+
+20210220-010418: PROCESS NORMAL FINISHED!  required process-time:0:03:15.482588
+--------------------------------------

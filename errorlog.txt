@@ -31,3 +31,6 @@
 20210104-011629: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 03.01.21, 18 33 06.txt   url: https://youtube.com/watch?v=HQut13o_QLI&feature=share
 20210104-180744: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 04.01.21, 17 55 42.txt   url: https://youtube.com/watch?v=yCdVyHGYfgA&feature=share
 20210104-180842: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 04.01.21, 18 06 35.txt   url: https://youtube.com/watch?v=LnCPxHy0DAE&feature=share
+20210204-010557: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 03.02.21, 19 03 22.txt   url: https://youtube.com/watch?v=ntbNRUycbD4&feature=share
+20210204-010659: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 03.02.21, 19 02 42.txt   url: https://youtube.com/watch?v=lkZd2lBQb2c&feature=share
+20210204-011237: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 03.02.21, 19 02 18.txt   url: https://youtube.com/watch?v=3-YKZc6aOIw&feature=share
