@@ -19,6 +19,7 @@ while True:
     data = [int(i) for i in data]
     data = sum(data)
     print(data)
+    
     f.close()
 
     if data > 6:
@@ -82,7 +83,6 @@ while True:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
             server.login(sender_email, password)
             server.sendmail(sender_email, receiver_email, text)
-     
     print("E-mail sent")
       
     sys.exit()

@@ -1,60 +1,14 @@
 
-20210426-172037: PROCESS NORMAL FINISHED!  required process-time:0:00:03.871888
+--------------------------------------
+YTDL4.1.py: 20210501-230155, Verloren (feat. Nura).mp3,        url: https://youtube.com/watch?v=ild5KAq__gI&feature=share
+YTDL4.1.py: 20210501-230250, Verloren (feat. Nura).mp3,        url: https://youtube.com/watch?v=6xjceaNz_Bo&feature=share
+YTDL4.1.py: 20210501-230353, The Chemical Brothers - The Darkness That You Fear (Official Video).mp3,        url: https://youtube.com/watch?v=b-mGA4V2LK0&feature=share
+YTDL4.1.py: 20210501-230450, The Chemical Brothers - The Darkness That You Fear (Official Video).mp3,        url: https://youtube.com/watch?v=7gZJDYmgQGs&feature=share
+YTDL4.1.py: 20210501-230548, The Chemical Brothers - The Darkness That You Fear (Official Video).mp3,        url: https://youtube.com/watch?v=1BIt3NXga7U&feature=share
+YTDL4.1.py: 20210501-230657, The Chemical Brothers - The Darkness That You Fear (Official Video).mp3,        url: https://youtube.com/watch?v=ozTRzl7M-H0&feature=share
+
+20210501-230802: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:06:59.315775
 --------------------------------------
 
-20210426-211104: PROCESS NORMAL FINISHED!  required process-time:0:00:03.901692
---------------------------------------
-
-20210426-230106: PROCESS NORMAL FINISHED!  required process-time:0:00:03.784970
---------------------------------------
-
-20210427-114454: PROCESS NORMAL FINISHED!  required process-time:0:00:03.936106
---------------------------------------
-
-20210427-154057: PROCESS NORMAL FINISHED!  required process-time:0:00:04.893152
---------------------------------------
-
-20210427-230107: PROCESS NORMAL FINISHED!  required process-time:0:00:03.889153
---------------------------------------
-
-20210428-230107: PROCESS NORMAL FINISHED!  required process-time:0:00:04.190324
---------------------------------------
-
-20210429-074959: PROCESS NORMAL FINISHED!  required process-time:0:00:03.450407
---------------------------------------
-
-20210429-075912: PROCESS NORMAL FINISHED!  required process-time:0:00:07.503747
---------------------------------------
-
-20210429-134255: PROCESS NORMAL FINISHED!  required process-time:0:00:04.039020
---------------------------------------
-
-20210429-134421: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.706390
---------------------------------------
-
-20210429-134619: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.663911
---------------------------------------
-
-20210429-134637: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.575913
---------------------------------------
-
-20210429-135800: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.660517
---------------------------------------
-
-20210429-135842: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.349638
---------------------------------------
-
-20210429-135903: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.761001
---------------------------------------
-
-20210429-135948: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.759546
---------------------------------------
-
-20210429-140908: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:05.081249
---------------------------------------
-
-20210429-155524: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.718302
---------------------------------------
-
-20210429-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.726072
+20210502-085227: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.361559
 --------------------------------------

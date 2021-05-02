@@ -1,4 +1,4 @@
 @reboot cd /home/pi/Dropbox-Uploader/Dropbox && ./bootjobs.sh
-20 04 * * * cd /home/pi/Dropbox-Uploader/Dropbox  && python3 YTDL_Pi_control.py
-01 23 * * * cd /home/pi/Dropbox-Uploader/Dropbox && ./YTDL-launcher.sh >/dev/nu$
-30 12 * * * cd /home/pi/Dropbox-Uploader/Dropbox && ./Email-launcher.sh
+05 05 * * * cd /home/pi/Dropbox-Uploader/Dropbox  && python3 YTDL_Pi_control.py
+01 23 * * * cd /home/pi/Dropbox-Uploader/Dropbox && ./YTDL-launcher.sh
+
