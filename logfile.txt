@@ -12,3 +12,761 @@ YTDL4.1.py: 20210501-230657, The Chemical Brothers - The Darkness That You Fear 
 
 20210502-085227: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.361559
 --------------------------------------
+
+20210502-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.493972
+--------------------------------------
+
+20210503-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.844152
+--------------------------------------
+YTDL4.1.py: 20210504-230157, Danger Dan - Eine gute Nachricht (Antilopen Gang).mp3,        url: https://youtube.com/watch?v=kjIL4lysSRk&feature=share
+
+20210504-230209: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:05.615358
+--------------------------------------
+
+20210505-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.634807
+--------------------------------------
+
+20210506-152346: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.841532
+--------------------------------------
+
+20210506-153232: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.434835
+--------------------------------------
+
+20210506-170746: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.687192
+--------------------------------------
+
+20210506-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.598299
+--------------------------------------
+
+20210507-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.447920
+--------------------------------------
+
+20210508-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.412364
+--------------------------------------
+
+20210509-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.495158
+--------------------------------------
+
+20210510-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.685646
+--------------------------------------
+
+20210511-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.696816
+--------------------------------------
+YTDL4.1.py: 20210512-230148, Son Lux — 'We Are the Ones' (Official Audio).mp3,        url: https://youtube.com/watch?v=1e522zJYJqU&feature=share
+
+20210512-230205: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:02.258976
+--------------------------------------
+
+20210513-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.048612
+--------------------------------------
+
+20210514-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.122212
+--------------------------------------
+YTDL4.1.py: 20210515-211018, Apashe - Lord & Master [Official Music Video].mp3,        url: https://youtube.com/watch?v=wUkYpNUaKvg&feature=share
+
+20210515-211819: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:09:08.019120
+--------------------------------------
+
+20210515-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.503613
+--------------------------------------
+YTDL4.1.py: 20210516-014132, Apashe Livestream for Toboggan Festival.mp3,        url: https://youtube.com/watch?v=c8uqkVOffgU&feature=share
+
+20210516-014203: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:05:36.951415
+--------------------------------------
+YTDL4.1.py: 20210516-091529, Apashe - Lord & Master [Official Music Video].mp3,        url: https://youtube.com/watch?v=wUkYpNUaKvg&feature=share
+
+20210516-091534: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:04.816938
+--------------------------------------
+
+20210516-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.765156
+--------------------------------------
+
+20210517-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.117051
+--------------------------------------
+
+20210518-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.373902
+--------------------------------------
+YTDL4.1.py: 20210519-230201, Dubquake 2016.mp3,        url: https://youtube.com/watch?v=OHTZ4ieumKU&feature=share
+
+20210519-230220: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:16.689982
+--------------------------------------
+
+20210520-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.621671
+--------------------------------------
+
+20210521-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.503706
+--------------------------------------
+
+20210522-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.452570
+--------------------------------------
+
+20210523-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.604782
+--------------------------------------
+
+20210524-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.680708
+--------------------------------------
+
+20210525-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.802309
+--------------------------------------
+
+20210526-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.772043
+--------------------------------------
+
+20210527-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.820534
+--------------------------------------
+
+20210528-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.557756
+--------------------------------------
+
+20210529-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.634796
+--------------------------------------
+
+20210530-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.439130
+--------------------------------------
+
+20210531-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.782767
+--------------------------------------
+
+20210601-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.711835
+--------------------------------------
+
+20210602-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.894167
+--------------------------------------
+
+20210603-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.721610
+--------------------------------------
+
+20210604-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.676993
+--------------------------------------
+YTDL4.1.py: 20210605-230156, Matteo - Zolfo.mp3,        url: https://youtube.com/watch?v=hb3qjX9URDE&feature=share
+
+20210605-230212: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:08.770799
+--------------------------------------
+YTDL4.1.py: 20210606-230201, Animal (Stripped).mp3,        url: https://youtube.com/watch?v=l1hWT29p6oU&feature=share
+YTDL4.1.py: 20210606-230256, Apashe - Behind My Eyes (ft. LIA) [Official Music Video].mp3,        url: https://youtube.com/watch?v=Vxisneco8Ic&feature=share
+YTDL4.1.py: 20210606-230343, Apashe - Behind My Eyes (ft. LIA) [Official Music Video].mp3,        url: https://youtube.com/watch?v=286jXjwdst0&feature=share
+
+20210606-230412: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:03:08.764765
+--------------------------------------
+
+20210607-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.566021
+--------------------------------------
+
+20210608-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.509484
+--------------------------------------
+
+20210609-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.115400
+--------------------------------------
+
+20210610-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.693104
+--------------------------------------
+
+20210611-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.355426
+--------------------------------------
+YTDL4.1.py: 20210612-230919, The Architect - Le Coeur Au Bout Des Doigts (Official Mix).mp3,        url: https://youtube.com/watch?v=89hJKyEg3OE&feature=share
+YTDL4.1.py: 20210612-231046, The Architect - Rêve (Official Audio).mp3,        url: https://youtube.com/watch?v=xKIHCC1YBIE&feature=share
+
+20210612-231126: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:10:22.690753
+--------------------------------------
+
+20210613-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.702158
+--------------------------------------
+
+20210614-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.672414
+--------------------------------------
+
+20210615-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.643761
+--------------------------------------
+
+20210616-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.848365
+--------------------------------------
+
+20210617-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.498412
+--------------------------------------
+YTDL4.1.py: 20210618-230159, Juse Ju - Model in Tokio feat Nikita Gorbunov & Mia Juni (prod. by C.O.W. 牛).mp3,        url: https://youtube.com/watch?v=YFi3lvI9PBM&feature=share
+YTDL4.1.py: 20210618-230244, Juse Ju - Model in Tokio feat Nikita Gorbunov & Mia Juni (prod. by C.O.W. 牛).mp3,        url: https://youtube.com/watch?v=gM4xZy39kNE&feature=share
+YTDL4.1.py: 20210618-230443, Juse Ju - Model in Tokio feat Nikita Gorbunov & Mia Juni (prod. by C.O.W. 牛).mp3,        url: https://youtube.com/watch?v=znqWTClISNE&feature=share
+
+20210618-230520: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:04:16.956210
+--------------------------------------
+YTDL4.1.py: 20210619-230418, Apashe - Renaissance 2.0 With Live Orchestra #VALOTF.mp3,        url: https://youtube.com/watch?v=xpWIdf-tCFc&feature=share
+
+20210619-230503: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:03:59.605587
+--------------------------------------
+YTDL4.1.py: 20210620-231851, Thievery Corporation • Hugo Kant • Dub Garden • Gramatik - Special Coffeeshop Selection [SBM].mp3,        url: https://youtube.com/watch?v=MxaE4ch03aQ&feature=share
+YTDL4.1.py: 20210620-232202, Thievery Corporation • Hugo Kant • Dub Garden • Gramatik - Special Coffeeshop Selection [SBM].mp3,        url: https://youtube.com/watch?v=Z_Ugcf-dH8E&feature=share
+
+20210620-232455: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:23:51.556398
+--------------------------------------
+YTDL4.1.py: 20210621-230207, Apashe - Distance (ft. Geoffroy) [Volac Remix].mp3,        url: https://youtube.com/watch?v=YEzcP0Ldow4&feature=share
+YTDL4.1.py: 20210621-230301, Apashe - Distance (ft. Geoffroy) [Volac Remix].mp3,        url: https://youtube.com/watch?v=Ot1K9hkPpTw&feature=share
+YTDL4.1.py: 20210621-230552, Apashe - Distance (ft. Geoffroy) [Volac Remix].mp3,        url: https://youtube.com/watch?v=eB741SdHKuI&feature=share
+YTDL4.1.py: 20210621-230645, Apashe - Distance (ft. Geoffroy) [Volac Remix].mp3,        url: https://youtube.com/watch?v=-_cahjSFXMs&feature=share
+
+20210621-230744: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:06:39.421679
+--------------------------------------
+YTDL4.1.py: 20210622-230206, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=sjvoq7aFseM&feature=share
+YTDL4.1.py: 20210622-230300, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=WylFmch0boA&feature=share
+YTDL4.1.py: 20210622-230452, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=NQVpP9nS1ao&feature=share
+YTDL4.1.py: 20210622-230600, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=s-GSwG9Eo2M&feature=share
+YTDL4.1.py: 20210622-230706, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=4kzV8BqNMC8&feature=share
+YTDL4.1.py: 20210622-230810, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=YbBU06irWT8&feature=share
+YTDL4.1.py: 20210622-230924, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=PPn-Al-OWTk&feature=share
+
+20210622-231041: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:09:37.917813
+--------------------------------------
+
+20210623-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.714374
+--------------------------------------
+
+20210624-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.829692
+--------------------------------------
+
+20210625-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.487017
+--------------------------------------
+
+20210626-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.624060
+--------------------------------------
+
+20210627-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.751327
+--------------------------------------
+
+20210628-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.602824
+--------------------------------------
+
+20210629-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.917037
+--------------------------------------
+YTDL4.1.py: 20210630-230225, Dope Lemon - Hey You.mp3,        url: https://youtube.com/watch?v=RKMI_bQLYO8&feature=share
+YTDL4.1.py: 20210630-230323, Dope Lemon - Hey You.mp3,        url: https://youtube.com/watch?v=PPn-Al-OWTk&feature=share
+
+20210630-230356: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:02:52.386677
+--------------------------------------
+
+20210701-143438: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.441117
+--------------------------------------
+YTDL4.1.py: 20210701-144057, Dope Lemon - Hey You.mp3,        url: https://youtube.com/watch?v=RKMI_bQLYO8&feature=share
+
+20210701-144107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:24.986039
+--------------------------------------
+YTDL4.1.py: 20210701-230156, Bonde Do Gigi - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=lRekna8s8_g&feature=share
+YTDL4.1.py: 20210701-230331, Os Tincoãs - Deixa A Gira Girar (j g b edit).mp3,        url: https://youtube.com/watch?v=3xt8Mp8oWzc&feature=share
+YTDL4.1.py: 20210701-231356, Os Tincoãs - Deixa A Gira Girar (j g b edit).mp3,        url: https://youtube.com/watch?v=Q6i-PrKj9CI&feature=share
+YTDL4.1.py: 20210701-231629, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=u3rh35F6v2s&feature=share
+YTDL4.1.py: 20210701-231805, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=PEf4KKDBljI&feature=share
+YTDL4.1.py: 20210701-232812, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=ecEjAvKT5kQ&feature=share
+YTDL4.1.py: 20210701-233854, Apashe - Copter Boy (Full Album).mp3,        url: https://youtube.com/watch?v=3datr3PTN2A&feature=share
+YTDL4.1.py: 20210701-234109, Apashe - Copter Boy (Full Album).mp3,        url: https://youtube.com/watch?v=9Ck2QZJ3kQ0&feature=share
+
+20210701-234542: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:44:39.152819
+--------------------------------------
+YTDL4.1.py: 20210702-230146, Juse Ju feat. Curly - S.D.W.A (Prod. Enaka).mp3,        url: https://youtube.com/watch?v=eZUdcIzJqEA&feature=share
+
+20210702-230205: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:01.005601
+--------------------------------------
+YTDL4.1.py: 20210703-230258, L'ENTOURLOOP Ft. Troy Berkley & The Architect - SoundBwoy (Official Video).mp3,        url: https://youtube.com/watch?v=ms_WbW4yvow&feature=share
+YTDL4.1.py: 20210703-230342, L'ENTOURLOOP Ft. Troy Berkley & The Architect - SoundBwoy (Official Video).mp3,        url: https://youtube.com/watch?v=gM4xZy39kNE&feature=share
+YTDL4.1.py: 20210703-230421, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=u3rh35F6v2s&feature=share
+YTDL4.1.py: 20210703-230508, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=rivxy3qXSak&feature=share
+YTDL4.1.py: 20210703-230615, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=pXNnD4eG4N8&feature=share
+YTDL4.1.py: 20210703-231650, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=Q6i-PrKj9CI&feature=share
+YTDL4.1.py: 20210703-231757, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=lRekna8s8_g&feature=share
+YTDL4.1.py: 20210703-231940, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=PEf4KKDBljI&feature=share
+YTDL4.1.py: 20210703-232107, Leng It Off ft. ASM, Youthstar, Illaman & Taiwan MC - Chinese Man, Scratch Bandits Crew, Baja Fre....mp3,        url: https://youtube.com/watch?v=dcIDP91bgrQ&feature=share
+
+20210703-232254: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:21:51.526232
+--------------------------------------
+YTDL4.1.py: 20210704-230158, The Architect - Crétin De Terrien (Official Audio).mp3,        url: https://youtube.com/watch?v=PPn-Al-OWTk&feature=share
+
+20210704-230205: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:01.865621
+--------------------------------------
+YTDL4.1.py: 20210705-230148, Chinese Man presents  - Rumble - Rumble Syndication feat. Cyph4 & OfNazareth.mp3,        url: https://youtube.com/watch?v=pWhezPJd9ro&feature=share
+
+20210705-230205: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:02.401516
+--------------------------------------
+YTDL4.1.py: 20210706-230202, Juse Ju & Nikita Gorbunov - Gleisbett.mp3,        url: https://youtube.com/watch?v=xZga5u-pzrI&feature=share
+
+20210706-230222: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:18.419306
+--------------------------------------
+YTDL4.1.py: 20210707-230157, WEEKEND x KOLJAH x JUSE JU - SCHEISSE GECHILLT (prod. Friedrich VanZandt).mp3,        url: https://youtube.com/watch?v=btyWMBteSH8&feature=share
+YTDL4.1.py: 20210707-230256, WEEKEND x KOLJAH x JUSE JU - SCHEISSE GECHILLT (prod. Friedrich VanZandt).mp3,        url: https://youtube.com/watch?v=hqqG3WU1uhk&feature=share
+YTDL4.1.py: 20210707-231308, WEEKEND x KOLJAH x JUSE JU - SCHEISSE GECHILLT (prod. Friedrich VanZandt).mp3,        url: https://youtube.com/watch?v=Nhzxyn8ikDY&feature=share
+
+20210707-231615: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:15:11.751478
+--------------------------------------
+
+20210708-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.705850
+--------------------------------------
+
+20210709-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.797675
+--------------------------------------
+
+20210710-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.738301
+--------------------------------------
+
+20210711-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.690537
+--------------------------------------
+YTDL4.1.py: 20210712-230153, Al'Tarba & The Architect - Orange Sea.mp3,        url: https://youtube.com/watch?v=d-naDndWAWE&feature=share
+
+20210712-230208: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:05.246158
+--------------------------------------
+
+20210713-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.810799
+--------------------------------------
+YTDL4.1.py: 20210714-230152, L'ENTOURLOOP & SKARRA MUCCI - Mr President (Official video).mp3,        url: https://youtube.com/watch?v=94v0DV7jJCs&feature=share
+YTDL4.1.py: 20210714-230240, Al'Tarba x The Architect - Orange Sea.mp3,        url: https://youtube.com/watch?v=jTPj_2smOk4&feature=share
+YTDL4.1.py: 20210714-230354, Al'Tarba x The Architect - Orange Sea.mp3,        url: https://youtube.com/watch?v=ttuHbT1rIPU&feature=share
+
+20210714-230433: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:03:30.202228
+--------------------------------------
+YTDL4.1.py: 20210715-230225, Dope Lemon - Salt & Pepper.mp3,        url: https://youtube.com/watch?v=FOS8KKnFmx0&feature=share
+YTDL4.1.py: 20210715-231243, Dope Lemon - Salt & Pepper.mp3,        url: https://youtube.com/watch?v=Nhzxyn8ikDY&feature=share
+
+20210715-231433: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:13:29.085515
+--------------------------------------
+
+20210716-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.680045
+--------------------------------------
+
+20210717-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.448259
+--------------------------------------
+
+20210718-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.533721
+--------------------------------------
+
+20210719-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.779450
+--------------------------------------
+
+20210720-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.574667
+--------------------------------------
+
+20210721-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.947368
+--------------------------------------
+
+20210722-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.977832
+--------------------------------------
+
+20210723-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.502377
+--------------------------------------
+
+20210724-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.424609
+--------------------------------------
+
+20210725-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.294483
+--------------------------------------
+
+20210726-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.091844
+--------------------------------------
+
+20210727-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.939576
+--------------------------------------
+YTDL4.1.py: 20210728-230218, Juse Ju - Shibuya Crossing (prod. Torky Tork).mp3,        url: https://youtube.com/watch?v=5nPQ7hGUFrY&feature=share
+YTDL4.1.py: 20210728-231054, Apashe - Renaissance 2.0 With Live Orchestra #VALOTF.mp3,        url: https://youtube.com/watch?v=xpWIdf-tCFc&feature=share
+YTDL4.1.py: 20210728-231206, Apashe - Renaissance 2.0 With Live Orchestra #VALOTF.mp3,        url: https://youtube.com/watch?v=rgFmhbkRl0I&feature=share
+YTDL4.1.py: 20210728-231300, Apashe - Renaissance 2.0 With Live Orchestra #VALOTF.mp3,        url: https://youtube.com/watch?v=znqWTClISNE&feature=share
+YTDL4.1.py: 20210728-231420, Gramatik Vs. Nirvana Vs. Bill Burr - Lake Of Fire Flip.mp3,        url: https://youtube.com/watch?v=LF4rx2jhkBk&feature=share
+YTDL4.1.py: 20210728-232243, Gramatik Vs. Nirvana Vs. Bill Burr - Lake Of Fire Flip.mp3,        url: https://youtube.com/watch?v=lGyycgMrVxs&feature=share
+
+20210728-232545: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:24:41.219386
+--------------------------------------
+YTDL4.1.py: 20210729-231137, Chinese Man - Racing With The Sun (Full Album).mp3,        url: https://youtube.com/watch?v=2VRxiMg6nck&feature=share
+YTDL4.1.py: 20210729-231354, Dope Lemon - Hey You.mp3,        url: https://youtube.com/watch?v=RKMI_bQLYO8&feature=share
+
+20210729-231443: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:13:38.776287
+--------------------------------------
+
+20210730-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.689945
+--------------------------------------
+YTDL4.1.py: 20210731-231558, L'ENTOURLOOP - Start From Scratch Mix (Official Video).mp3,        url: https://youtube.com/watch?v=P9u2xvdeD3c&feature=share
+
+20210731-231919: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:18:16.085250
+--------------------------------------
+
+20210801-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.476616
+--------------------------------------
+
+20210802-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.810050
+--------------------------------------
+YTDL4.1.py: 20210803-230231, The Hu - Shireg Shireg (Acoustic Performance).mp3,        url: https://youtube.com/watch?v=8O7mJwuSyVA&feature=share
+YTDL4.1.py: 20210803-230420, The Hu - Shireg Shireg (Acoustic Performance).mp3,        url: https://youtube.com/watch?v=81LMSzmE8-U&feature=share
+
+20210803-230448: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:03:44.179284
+--------------------------------------
+
+20210804-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.502912
+--------------------------------------
+
+20210805-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.614632
+--------------------------------------
+YTDL4.1.py: 20210806-231140, Chinese Man - Racing With The Sun (Full Album).mp3,        url: https://youtube.com/watch?v=2VRxiMg6nck&feature=share
+
+20210806-231226: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:11:23.404100
+--------------------------------------
+
+20210807-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.466794
+--------------------------------------
+
+20210808-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.567606
+--------------------------------------
+
+20210809-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.438353
+--------------------------------------
+
+20210810-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.422123
+--------------------------------------
+
+20210811-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.469697
+--------------------------------------
+
+20210812-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.495127
+--------------------------------------
+
+20210813-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.989596
+--------------------------------------
+
+20210814-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.612699
+--------------------------------------
+
+20210815-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.598114
+--------------------------------------
+
+20210816-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.527570
+--------------------------------------
+
+20210817-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.855863
+--------------------------------------
+
+20210818-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.484161
+--------------------------------------
+
+20210819-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.615766
+--------------------------------------
+YTDL4.1.py: 20210820-230159, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=aQgBdA985KE&feature=share
+YTDL4.1.py: 20210820-230253, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=NQ3wpBqp_tI&feature=share
+YTDL4.1.py: 20210820-230344, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=gM4xZy39kNE&feature=share
+YTDL4.1.py: 20210820-230456, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=KU5NpXgtSFM&feature=share
+YTDL4.1.py: 20210820-230613, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=F4d19GEevpw&feature=share
+YTDL4.1.py: 20210820-230725, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=pXNnD4eG4N8&feature=share
+YTDL4.1.py: 20210820-230841, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=YFi3lvI9PBM&feature=share
+YTDL4.1.py: 20210820-231002, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=ntbNRUycbD4&feature=share
+YTDL4.1.py: 20210820-231123, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=oRvQomvmkRw&feature=share
+
+20210820-231241: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:11:38.222856
+--------------------------------------
+
+20210821-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.868101
+--------------------------------------
+
+20210822-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.129045
+--------------------------------------
+
+20210823-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.706557
+--------------------------------------
+YTDL4.1.py: 20210824-230147, Beast Is Loose feat. ASM, Youthstar & Illaman - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=9Ck2QZJ3kQ0&feature=share
+
+20210824-230200: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:56.428016
+--------------------------------------
+
+20210825-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.217651
+--------------------------------------
+YTDL4.1.py: 20210826-230219, King Gizzard & The Lizard Wizard - If Not Now, Then When (Official Video).mp3,        url: https://youtube.com/watch?v=ntbNRUycbD4&feature=share
+YTDL4.1.py: 20210826-230532, King Gizzard & The Lizard Wizard - If Not Now, Then When (Official Video).mp3,        url: https://youtube.com/watch?v=W-INtEf3B-U&feature=share
+YTDL4.1.py: 20210826-230752, King Gizzard & The Lizard Wizard - If Not Now, Then When (Official Video).mp3,        url: https://youtube.com/watch?v=2qjSZzswJCY&feature=share
+YTDL4.1.py: 20210826-230842, No Man - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=OiXjRNwZ8D0&feature=share
+YTDL4.1.py: 20210826-230941, No Man - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=9Ck2QZJ3kQ0&feature=share
+YTDL4.1.py: 20210826-231034, No Man - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=it0Uhdr2cvk&feature=share
+YTDL4.1.py: 20210826-231149, No Man - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=oRvQomvmkRw&feature=share
+YTDL4.1.py: 20210826-231444, No Man - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=tGNK7gRSfIg&feature=share
+
+20210826-231613: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:15:09.576930
+--------------------------------------
+
+20210827-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.596789
+--------------------------------------
+
+20210828-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.400586
+--------------------------------------
+
+20210829-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.890577
+--------------------------------------
+
+20210830-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.188882
+--------------------------------------
+
+20210831-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.355176
+--------------------------------------
+
+20210901-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.869227
+--------------------------------------
+
+20210902-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.951953
+--------------------------------------
+
+20210903-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.019037
+--------------------------------------
+
+20210904-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.138422
+--------------------------------------
+
+20210905-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.172765
+--------------------------------------
+YTDL4.1.py: 20210906-231453, Secret Garden 2 (Trip-Hop Compilation).mp3,        url: https://youtube.com/watch?v=htLjuGkMPUc&feature=share
+YTDL4.1.py: 20210906-231715, Apashe - Insane (ft. Tech N9ne).mp3,        url: https://youtube.com/watch?v=2pmEyVFhIpA&feature=share
+YTDL4.1.py: 20210906-231915, Apashe - Insane (ft. Tech N9ne).mp3,        url: https://youtube.com/watch?v=hCE5JAmrAlg&feature=share
+YTDL4.1.py: 20210906-233633, Gramatik   Coffee Shop Selection Full Album_+.mp3,        url: https://youtube.com/watch?v=ap9tdjqGhTM&feature=share
+YTDL4.1.py: 20210906-233958, DOPE LEMON - Kids Fallin' In Love (Official Music Video).mp3,        url: https://youtube.com/watch?v=uDcgkKpEUO0&feature=share
+YTDL4.1.py: 20210906-234235, Edgar Wasser - FRSCHGMPFT.mp3,        url: https://youtube.com/watch?v=aQgBdA985KE&feature=share
+
+20210906-234624: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:45:20.215157
+--------------------------------------
+YTDL4.1.py: 20210907-230203, DOPE LEMON - Give Me Honey (Official Video).mp3,        url: https://youtube.com/watch?v=j44ee5CKsyc&feature=share
+
+20210907-230218: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:01:13.463518
+--------------------------------------
+
+20210908-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.189780
+--------------------------------------
+
+20210909-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.232042
+--------------------------------------
+
+20210910-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.069792
+--------------------------------------
+
+20210911-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.000468
+--------------------------------------
+
+20210912-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.588977
+--------------------------------------
+
+20210913-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.050714
+--------------------------------------
+
+20210914-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.485316
+--------------------------------------
+
+20210915-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.722364
+--------------------------------------
+
+20210916-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.084559
+--------------------------------------
+
+20210917-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.216518
+--------------------------------------
+
+20210918-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.741262
+--------------------------------------
+
+20210919-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.516464
+--------------------------------------
+
+20210920-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.673576
+--------------------------------------
+
+20210921-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.580671
+--------------------------------------
+
+20210922-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.536715
+--------------------------------------
+
+20210923-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.658409
+--------------------------------------
+
+20210924-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.706884
+--------------------------------------
+
+20210925-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.691912
+--------------------------------------
+
+20210926-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.253998
+--------------------------------------
+
+20210927-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.676296
+--------------------------------------
+
+20210928-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.576722
+--------------------------------------
+
+20210929-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.559647
+--------------------------------------
+
+20210930-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.727651
+--------------------------------------
+
+20211001-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.590698
+--------------------------------------
+
+20211002-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.746700
+--------------------------------------
+
+20211003-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.407083
+--------------------------------------
+
+20211004-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.588113
+--------------------------------------
+YTDL4.1.py: 20211005-230821, Moderator - Sinner's Syndrome LP [Full Album].mp3,        url: https://youtube.com/watch?v=X2DWeQ0xd8g&feature=share
+
+20211005-231017: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:09:14.336586
+--------------------------------------
+
+20211006-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.700699
+--------------------------------------
+YTDL4.1.py: 20211007-230155, Moderator - Chasing the Sun.mp3,        url: https://youtube.com/watch?v=hRN8xgAHMVU&feature=share
+YTDL4.1.py: 20211007-230401, Panik Panzer - DIY CEO (prod. Enaka) _ Fatoni & Panik Panzer - Sí claro (prod. Tombs Beats).mp3,        url: https://youtube.com/watch?v=qqCpdlNk3DM&feature=share
+YTDL4.1.py: 20211007-230627, Panik Panzer - DIY CEO (prod. Enaka) _ Fatoni & Panik Panzer - Sí claro (prod. Tombs Beats).mp3,        url: https://youtube.com/watch?v=nkemtn2ZFFo&feature=share
+
+20211007-231725: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:16:22.088039
+--------------------------------------
+YTDL4.1.py: 20211008-230752, Apashe - Renaissance 2.0 With Live Orchestra #VALOTF.mp3,        url: https://youtube.com/watch?v=xpWIdf-tCFc&feature=share
+YTDL4.1.py: 20211008-231004, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=sjvoq7aFseM&feature=share
+YTDL4.1.py: 20211008-231237, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=d0cCHzgRrhg&feature=share
+YTDL4.1.py: 20211008-231444, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=5_5Hy-i7OZk&feature=share
+YTDL4.1.py: 20211008-231728, Клип Арюна Нимаева 'Эрбэд соохор', бурятская народная песня, аранжировка Нар-Оюу Наранбаатар..mp3,        url: https://youtube.com/watch?v=2K02Ij9yn9E&feature=share
+YTDL4.1.py: 20211008-231839, This One (feat. Cw Jones, Illaman).mp3,        url: https://youtube.com/watch?v=3nInhw922sk&feature=share
+YTDL4.1.py: 20211008-232036, This One (feat. Cw Jones, Illaman).mp3,        url: https://youtube.com/watch?v=D-NiDyJGdZo&feature=share
+
+20211008-232144: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:20:41.715917
+--------------------------------------
+YTDL4.1.py: 20211009-230802, Apashe - I Killed The Orchestra EP (Continuous Mix).mp3,        url: https://youtube.com/watch?v=7WT_JIpNLHY&feature=share
+
+20211009-230853: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:07:49.423254
+--------------------------------------
+
+20211010-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.377089
+--------------------------------------
+
+20211011-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.224087
+--------------------------------------
+
+20211012-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.028032
+--------------------------------------
+
+20211013-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.147231
+--------------------------------------
+
+20211014-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.471332
+--------------------------------------
+YTDL4.1.py: 20211015-230323, L'ENTOURLOOP - Li Sem Remix feat Jessica Persée, Bouchkour, Flavia Coelho & Lidiop (Official Audio).mp3,        url: https://youtube.com/watch?v=hCE5JAmrAlg&feature=share
+YTDL4.1.py: 20211015-230505, L'ENTOURLOOP & SKARRA MUCCI - Mr President (Official video).mp3,        url: https://youtube.com/watch?v=94v0DV7jJCs&feature=share
+
+20211015-230520: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:04:17.077218
+--------------------------------------
+YTDL4.1.py: 20211016-230337, L'ENTOURLOOP Ft. N'Zeng - Le Savoir Faire (Official Video).mp3,        url: https://youtube.com/watch?v=nACdwEaWS_c&feature=share
+YTDL4.1.py: 20211016-230646, L'ENTOURLOOP Ft. N'Zeng - Le Savoir Faire (Official Video).mp3,        url: https://youtube.com/watch?v=1XOlMrn6k9o&feature=share
+YTDL4.1.py: 20211016-230856, L'ENTOURLOOP Ft. N'Zeng - Le Savoir Faire (Official Video).mp3,        url: https://youtube.com/watch?v=udjoKveYTN0&feature=share
+
+20211016-230937: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:08:33.565237
+--------------------------------------
+
+20211017-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.838303
+--------------------------------------
+
+20211018-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.185625
+--------------------------------------
+
+20211019-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.724038
+--------------------------------------
+
+20211020-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.310356
+--------------------------------------
+
+20211021-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.175063
+--------------------------------------
+
+20211022-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.031755
+--------------------------------------
+YTDL4.1.py: 20211023-232518, Al'tarba - Le Cabinet des Curiosités Vol1 (full album).mp3,        url: https://youtube.com/watch?v=6JCnuh_PAzM&feature=share
+
+20211023-232737: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:26:34.060317
+--------------------------------------
+
+20211024-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.616412
+--------------------------------------
+YTDL4.1.py: 20211025-230306, Samy Deluxe - Liarkasten (Offizielles Musikvideo).mp3,        url: https://youtube.com/watch?v=ZM2wsVD2igc&feature=share
+
+20211025-230322: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:02:18.662969
+--------------------------------------
+
+20211026-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.185047
+--------------------------------------
+
+20211027-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.258529
+--------------------------------------
+
+20211028-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.049304
+--------------------------------------
+YTDL4.1.py: 20211029-232414, Chinese Man - The Groove Sessions (Full Album).mp3,        url: https://youtube.com/watch?v=oz5pFJRecEc&feature=share
+
+20211029-232538: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:24:34.529458
+--------------------------------------
+
+20211030-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.937755
+--------------------------------------
+
+20211031-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.050061
+--------------------------------------
+
+20211101-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.261359
+--------------------------------------
+
+20211102-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.651623
+--------------------------------------
+
+20211103-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.743169
+--------------------------------------
+
+20211104-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.156197
+--------------------------------------
+YTDL4.1.py: 20211105-234439, Massive Attack • Morcheeba • Portishead - Special Coffeeshop Selection [Seven Beats Music].mp3,        url: https://youtube.com/watch?v=_gozzJ5Yjsc&feature=share
+YTDL4.1.py: 20211106-000649, Chinese Man - Racing With The Sun (Full Album).mp3,        url: https://youtube.com/watch?v=2VRxiMg6nck&feature=share
+YTDL4.1.py: 20211106-000945, Chinese Man - Racing With The Sun (Full Album).mp3,        url: https://youtube.com/watch?v=P3QS83ubhHE&feature=share
+
+20211106-001127: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:1:10:24.613727
+--------------------------------------
+
+20211106-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.293733
+--------------------------------------
+
+20211107-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.184326
+--------------------------------------
+
+20211108-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.780682
+--------------------------------------
+YTDL4.1.py: 20211109-230329, L'ENTOURLOOP x PUMAN - Bulang Beauty (Remix) [Official Audio].mp3,        url: https://youtube.com/watch?v=nkemtn2ZFFo&feature=share
+
+20211109-230344: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:02:40.480113
+--------------------------------------
+
+20211110-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.196156
+--------------------------------------
+
+20211111-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.900272
+--------------------------------------
+
+20211112-230106: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.326272
+--------------------------------------
+
+20211113-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.177783
+--------------------------------------
+
+20211114-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.106428
+--------------------------------------
+
+20211115-230107: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.783691
+--------------------------------------
+
+20211116-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.082858
+--------------------------------------
+
+20211117-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.752147
+--------------------------------------
+
+20211118-230108: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:03.480692
+--------------------------------------
+YTDL4.1.py: 20211119-230338, Kunma.mp3,        url: https://youtube.com/watch?v=UuBRyRitark&feature=share
+YTDL4.1.py: 20211119-230647, Kunma.mp3,        url: https://youtube.com/watch?v=We_6ba32wZ4&feature=share
+
+20211119-230721: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:06:15.663674
+--------------------------------------
+
+20211120-230110: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:00:04.272859
+--------------------------------------
