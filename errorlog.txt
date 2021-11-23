@@ -1,4 +1,0 @@
-20211007-230744: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 07.10.21, 09 45 21.txt   url: https://youtube.com/watch?v=qqCpdlNk3DM&feature=share
-20211007-231206: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 07.10.21, 09 38 41.txt   url: https://youtube.com/watch?v=qHp2ooJxJRs&feature=share
-20211007-231349: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 07.10.21, 09 20 37.txt   url: https://youtube.com/watch?v=2K02Ij9yn9E&feature=share
-20211007-231537: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 07.10.21, 09 33 33.txt   url: https://youtube.com/watch?v=YQhP1BmvrBs&feature=share

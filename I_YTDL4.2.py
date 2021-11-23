@@ -29,7 +29,7 @@ print("Python-version:", sys.version)
 print()
 print()
 #delete local mp3-folder and create new mp3-folder
-print("YTDL4.1.py startet (included backups and YT-cache error-handling)")
+print("YTDL4.2.py startet (included backups and YT-cache error-handling)")
 print()
 print()
 print("delete local mp3/mp4 folder")
@@ -102,7 +102,7 @@ while True:
               print()      
               timestr = time.strftime("%Y%m%d-%H%M%S")
               fobj_out = open(Dateiname,"a" )
-              fobj_out.write("YTDL4.1.py: " + timestr + ", " + trackname + ",        " + "url: " + url + '\n')
+              fobj_out.write("YTDL4.2.py: " + timestr + ", " + trackname + ",        " + "url: " + url + '\n')
               fobj_out.close()
               print("logfile appended", trackname)
               i = i +1
@@ -182,7 +182,7 @@ while True:
   print("YTDL NAS 1 written")
 
   fobj_out = open(Dateiname,"a" )
-  fobj_out.write('\n' + timestr + ": " + "PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:" + str(t_diff) + '\n' + '--------------------------------------' + '\n')
+  fobj_out.write('\n' + timestr + ": " + "PROCESS NORMAL FINISHED, required process-time:" + str(t_diff) + '\n' + '--------------------------------------' + '\n')
   fobj_out.close()
   print(timestr, ": ", n, "Tracks uploaded to Dropbox/mp3! required process-time:", t_diff)
   

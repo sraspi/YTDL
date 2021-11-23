@@ -774,3 +774,25 @@ YTDL4.1.py: 20211121-230250, The Architect - Who's The Real Skinhead (Official A
 
 20211121-230307: PROCESS NORMAL FINISHED, error.log(1) written!  required process-time:0:02:02.287824
 --------------------------------------
+YTDL4.1.py: 20211122-230336, L'ENTOURLOOP x ISEO & DODOSOUND - My Art on the Market (Rmx w_ N'Zeng & T. Berkley) [Official Audio].mp3,        url: https://youtube.com/watch?v=Q5YfHORpib0&feature=share
+YTDL4.1.py: 20211122-230615, DOPE LEMON - Dope & Smoke (Official Audio).mp3,        url: https://youtube.com/watch?v=9OzmlCmTvc4&feature=share
+YTDL4.1.py: 20211122-230819, DOPE LEMON - Dope & Smoke (Official Audio).mp3,        url: https://youtube.com/watch?v=J4peGqzX0pA&feature=share
+YTDL4.1.py: 20211122-231058, Li Sem (L'Entourloop Remix).mp3,        url: https://youtube.com/watch?v=d0cCHzgRrhg&feature=share
+YTDL4.1.py: 20211122-233716, Li Sem (L'Entourloop Remix).mp3,        url: https://youtube.com/watch?v=fRylEKVu66Y&feature=share
+YTDL4.1.py: 20211122-233952, The Drop (Music Video) - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=A1rKq6loJ6Q&feature=share
+YTDL4.1.py: 20211122-234150, The Drop (Music Video) - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=keyaV49Ozq0&feature=share
+YTDL4.1.py: 20211122-234422, The Drop (Music Video) - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=2qjSZzswJCY&feature=share
+YTDL4.1.py: 20211122-234645, The Drop (Music Video) - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=uDcgkKpEUO0&feature=share
+YTDL4.1.py: 20211122-234846, The Drop (Music Video) - Chinese Man, Scratch Bandits Crew, Baja Frequencia.mp3,        url: https://youtube.com/watch?v=UNm2J2kZHbQ&feature=share
+
+20211122-235641: PROCESS NORMAL FINISHED, required process-time:0:55:35.095496
+--------------------------------------
+YTDL4.1.py: 20211123-074107, Stromae - Santé (Official Music Video).mp3,        url: https://youtube.com/watch?v=P3QS83ubhHE&feature=share
+
+20211123-074113: PROCESS NORMAL FINISHED, required process-time:0:01:52.521205
+--------------------------------------
+YTDL4.2.py: 20211123-074747, Li Sem (L'Entourloop Remix).mp3,        url: https://youtube.com/watch?v=d0cCHzgRrhg&feature=share
+YTDL4.2.py: 20211123-074944, Stromae - Tous Les Mêmes.mp3,        url: https://youtube.com/watch?v=CAMWdvo71ls&feature=share
+
+20211123-075003: PROCESS NORMAL FINISHED, required process-time:0:05:05.462400
+--------------------------------------
