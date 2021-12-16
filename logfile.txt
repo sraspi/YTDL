@@ -796,3 +796,91 @@ YTDL4.2.py: 20211123-074944, Stromae - Tous Les Mêmes.mp3,        url: https://
 
 20211123-075003: PROCESS NORMAL FINISHED, required process-time:0:05:05.462400
 --------------------------------------
+YTDL4.2.py: 20211123-232010, The Architect - Le Coeur Au Bout Des Doigts (Official Mix).mp3,        url: https://youtube.com/watch?v=89hJKyEg3OE&feature=share
+YTDL4.2.py: 20211123-232306, L'ENTOURLOOP Ft. Troy Berkley - Johnny A Bad Man (Official Video).mp3,        url: https://youtube.com/watch?v=ylUbvjs3U-A&feature=share
+YTDL4.2.py: 20211123-232523, L'ENTOURLOOP Ft. Biga_Ranx - Push The Limits (Official Video).mp3,        url: https://youtube.com/watch?v=spDYJef3tKM&feature=share
+
+20211123-232625: PROCESS NORMAL FINISHED, required process-time:0:25:20.406543
+--------------------------------------
+
+20211124-230111: PROCESS NORMAL FINISHED, required process-time:0:00:04.946794
+--------------------------------------
+
+20211125-230110: PROCESS NORMAL FINISHED, required process-time:0:00:04.242846
+--------------------------------------
+
+20211126-230115: PROCESS NORMAL FINISHED, required process-time:0:00:09.341735
+--------------------------------------
+
+20211127-230111: PROCESS NORMAL FINISHED, required process-time:0:00:04.746067
+--------------------------------------
+
+20211128-230110: PROCESS NORMAL FINISHED, required process-time:0:00:04.234584
+--------------------------------------
+
+20211129-230110: PROCESS NORMAL FINISHED, required process-time:0:00:04.762128
+--------------------------------------
+
+20211130-230110: PROCESS NORMAL FINISHED, required process-time:0:00:04.416499
+--------------------------------------
+YTDL4.2.py: 20211201-230406, The Chemical Brothers - Do It Again (Official Music Video).mp3,        url: https://youtube.com/watch?v=UVrwzjtBHq0&feature=share
+YTDL4.2.py: 20211201-230618, NTO - Invisible ft. Sofiane Pamart (Clip Officiel).mp3,        url: https://youtube.com/watch?v=SvV_YvC4iEw&feature=share
+YTDL4.2.py: 20211201-230905, NTO - Invisible ft. Sofiane Pamart (Clip Officiel).mp3,        url: https://youtube.com/watch?v=S_xH7noaqTA&feature=share
+YTDL4.2.py: 20211201-231151, NTO - Invisible ft. Sofiane Pamart (Clip Officiel).mp3,        url: https://youtube.com/watch?v=oiKj0Z_Xnjc&feature=share
+
+20211201-231256: PROCESS NORMAL FINISHED, required process-time:0:11:49.511576
+--------------------------------------
+
+20211202-230111: PROCESS NORMAL FINISHED, required process-time:0:00:04.917009
+--------------------------------------
+YTDL4.2.py: 20211203-230346, BOLD - Shook.mp3,        url: https://youtube.com/watch?v=LAMVC1P2c-Q&feature=share
+YTDL4.2.py: 20211203-230713, Panik Panzer - DIY CEO (prod. Enaka) _ Fatoni & Panik Panzer - Sí claro (prod. Tombs Beats).mp3,        url: https://youtube.com/watch?v=qqCpdlNk3DM&feature=share
+YTDL4.2.py: 20211203-231029, Panik Panzer - DIY CEO (prod. Enaka) _ Fatoni & Panik Panzer - Sí claro (prod. Tombs Beats).mp3,        url: https://youtube.com/watch?v=OwzkPKgPSbo&feature=share
+YTDL4.2.py: 20211203-231445, Panik Panzer - DIY CEO (prod. Enaka) _ Fatoni & Panik Panzer - Sí claro (prod. Tombs Beats).mp3,        url: https://youtube.com/watch?v=Z7rXAiC3jOQ&feature=share
+YTDL4.2.py: 20211203-231755, Danger Dan & Max Herre - Mir kann nichts passieren.mp3,        url: https://youtube.com/watch?v=Rgu13BZcMBY&feature=share
+YTDL4.2.py: 20211203-232326, Danger Dan & Max Herre - Mir kann nichts passieren.mp3,        url: https://youtube.com/watch?v=kfoJUeyMsOE&feature=share
+
+20211203-232554: PROCESS NORMAL FINISHED, required process-time:0:24:48.247577
+--------------------------------------
+
+20211204-230116: PROCESS NORMAL FINISHED, required process-time:0:00:09.989567
+--------------------------------------
+
+20211205-230149: PROCESS NORMAL FINISHED, required process-time:0:00:42.758037
+--------------------------------------
+
+20211206-232032: PROCESS NORMAL FINISHED, required process-time:0:19:06.786332
+--------------------------------------
+
+20211207-230715: PROCESS NORMAL FINISHED, required process-time:0:02:45.558283
+--------------------------------------
+
+20211209-021202: PROCESS NORMAL FINISHED, required process-time:0:00:05.915889
+--------------------------------------
+
+20211209-083612: PROCESS NORMAL FINISHED, required process-time:0:00:03.663073
+--------------------------------------
+
+20211209-230107: PROCESS NORMAL FINISHED, required process-time:0:00:03.430362
+--------------------------------------
+
+20211210-230107: PROCESS NORMAL FINISHED, required process-time:0:00:03.589692
+--------------------------------------
+
+20211211-230107: PROCESS NORMAL FINISHED, required process-time:0:00:03.878370
+--------------------------------------
+
+20211212-230106: PROCESS NORMAL FINISHED, required process-time:0:00:03.213783
+--------------------------------------
+
+20211213-230107: PROCESS NORMAL FINISHED, required process-time:0:00:03.755706
+--------------------------------------
+
+20211214-123932: PROCESS NORMAL FINISHED, required process-time:0:00:04.393834
+--------------------------------------
+
+20211214-230107: PROCESS NORMAL FINISHED, required process-time:0:00:03.900426
+--------------------------------------
+
+20211215-230107: PROCESS NORMAL FINISHED, required process-time:0:00:04.088538
+--------------------------------------
