@@ -11,7 +11,7 @@ from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-errorcontent = "OK"
+#errorcontent = "OK"
 
 while True:
 
@@ -22,51 +22,50 @@ while True:
     print(data)
     f.close()
 
-    if data > 15:
-        errorcontent = ("Mehrfach-Start, Fehler")
+    #if data > 15:
+        #errorcontent = ("Mehrfach-Start, Fehler")
     #if data == 15:# 1248 alles OK
         #errorcontent = ("Pi1 Pi2 Pi3  Pi4 OK")
-    if data == 14: # 248 USS ACC CBC
-        errorcontent = ("YTDL ausgefallen")
-    if data == 13: # 148 YTDL ACC CBC 
-        errorcontent = ("USS ausgefallen")
-    if data == 12: # 48 ACC CBC
-        errorcontent = ("UTDL USS ausgefallen")
-    if data == 11: # 128 YTDL USS CBC
-        errorcontent = ("ACC ausgefallen")
-    if data == 10: # 28 USS CBC
-        errorcontent = ("YTDL ACC ausgefallen")
-    if data == 9: # 18 YTDL BCC
-        errorcontent = ("USS ACC ausgefallen")    
-    if data == 8: # CBC
-        errorcontent = ("YTDL USS ACC ausgefallen!")
-    if data == 7: # 124 YTDL USS ACC
-        errorcontent = ("CBC ausgefallen")
-    if data == 6: # 24 USS ACC
-        errorcontent = ("YTDL CBC ausgefallen")
-    if data == 5: # 14 YTDL ACC
-        errorcontent = ("USS CBC ausgefallen")
-    if data == 4: # ACC
-        errorcontent = ("YTDL USS CBC ausgefallen!")
+    #if data == 14: # 248 USS ACC CBC
+        #errorcontent = ("YTDL ausgefallen")
+    #if data == 13: # 148 YTDL ACC CBC 
+        #errorcontent = ("USS ausgefallen")
+    #if data == 12: # 48 ACC CBC
+        #errorcontent = ("UTDL USS ausgefallen")
+    #if data == 11: # 128 YTDL USS CBC
+        #errorcontent = ("ACC ausgefallen")
+   # if data == 10: # 28 USS CBC
+        #errorcontent = ("YTDL ACC ausgefallen")
+    #if data == 9: # 18 YTDL BCC
+        #errorcontent = ("USS ACC ausgefallen")    
+   # if data == 8: # CBC
+        #errorcontent = ("YTDL USS ACC ausgefallen!")
+    #if data == 7: # 124 YTDL USS ACC
+        #errorcontent = ("CBC ausgefallen")
+    #if data == 6: # 24 USS ACC
+        #errorcontent = ("YTDL CBC ausgefallen")
+    #if data == 5: # 14 YTDL ACC
+        #errorcontent = ("USS CBC ausgefallen")
+    #if data == 4: # ACC
+        #errorcontent = ("YTDL USS CBC ausgefallen!")
     if data == 3: # 12 YTDL USS
-        errorcontent = ("ACC CBC ausgefallen!")
-    if data == 2: # USS
-        errorcontent = ("YTDL ACC CBCausgefallen!")
+        errorcontent = ("OK")
+    if data  >3: # YTDL
+        errorcontent = ("Error!")
     if data == 1: # YTDL
-        errorcontent = (" USS ACC CBC ausgefallen!")
+        errorcontent = (" USS ausgefallen!")
     if data == 0:
-        errorcontent = ("YTDL / USS  / ACC / CBC ausgefallen!")
-
-    errorcontent = "OK"
+        errorcontent = ("YTDL / USS  ausgefallen!")
     if errorcontent == "OK":
         print("alles OK, keine Email")
+
     else:
         #E-Mail an stefan.taubert.apweiler@gmail.com:
         print("E-Mail wird erstellt")
         Inhalt = (errorcontent)
-        Betreff = str("YTDL_Pi_control")
+        Betreff = str("USS_Pi_control")
         sender_email = "sraspi21@gmail.com"
-        receiver_email = "sraspi21@gmail.com"
+        receiver_email = "stefan.taubert.apweiler@gmail.com"
         password = "StJ19gmail"
         #password = input("Type your password and press enter:")
 
@@ -107,6 +106,7 @@ while True:
                 server.sendmail(sender_email, receiver_email, text)
      
         print("E-mail sent")
+    print(errorcontent)
       
     sys.exit()
 
