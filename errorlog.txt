@@ -1,0 +1,37 @@
+20220708-231149: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 08.07.22, 18 10 46.txt   url: https://youtube.com/watch?v=9OzmlCmTvc4&feature=share
+20220708-231357: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 08.07.22, 18 08 06.txt   url: https://youtube.com/watch?v=dVkMTXFD4mM&feature=share
+20220923-231021: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 23.09.22, 20 44 36.txt   url: https://youtube.com/watch?v=T_4paArBysw&feature=share
+20220923-231152: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 23.09.22, 20 53 06.txt   url: https://youtube.com/watch?v=rivxy3qXSak&feature=share
+20221031-232139: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 31.10.22, 20 36 27.txt   url: https://youtube.com/watch?v=_3EuiU1qdpE&feature=share
+20221031-232227: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 31.10.22, 20 40 54.txt   url: https://youtube.com/watch?v=6NLEp6awMQQ&feature=share
+20221101-172305: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/watch.url   url: [InternetShortcut]
+URL=https://youtu.be/_3EuiU1qdpE
+20221101-173756: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 01.11.22, 17 24 19.txt   url: https://youtube.com/watch?v=_3EuiU1qdpE&feature=share
+20221106-231010: txt-error, no valid txt: 
+20221107-231009: txt-error, no valid txt: 
+20221108-231010: txt-error, no valid txt: 
+20221109-231010: txt-error, no valid txt: 
+20221110-231010: txt-error, no valid txt: 
+20221111-231818: txt-error, no valid txt: 
+20221111-231955: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/IN MEINEN SCHUHEN - YouTube Music.pdf   url: https://youtube.com/watch?v=Z5dSrX6X914&feature=share
+20221111-232320: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 11.11.22, 08 20 36.txt   url: https://youtube.com/watch?v=v1V5Oc3hMbc&feature=share
+20221111-232735: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 11.11.22, 08 48 45.txt   url: https://youtube.com/watch?v=PvKb97LW04A&feature=share
+20221111-232835: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 11.11.22, 17 04 02.txt   url: https://youtube.com/watch?v=nJHhTlmooM0&feature=share
+20221111-232928: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 11.11.22, 17 11 26.txt   url: https://youtube.com/watch?v=jlnX-UUfOzw&feature=share
+20221111-233024: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 11.11.22, 08 16 28.txt   url: https://youtube.com/watch?v=xw4ypByU784&feature=share
+20221112-101250: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 12.11.22, 10 11 07.txt   url: https://youtube.com/watch?v=xw4ypByU784&feature=share
+20221112-173044: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 12.11.22, 17 25 43.txt   url: https://youtube.com/watch?v=nJHhTlmooM0&feature=share
+20221112-173219: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 12.11.22, 17 26 52.txt   url: https://youtube.com/watch?v=K0x-P5xmBHs&feature=share
+20221112-173430: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 12.11.22, 17 28 24.txt   url: https://youtube.com/watch?v=Q72RgQ0OrcU&feature=share
+20221112-173641: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 12.11.22, 17 25 18.txt   url: https://youtube.com/watch?v=xw4ypByU784&feature=share
+20221125-231023: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 25.11.22, 20 04 42.txt   url: https://youtube.com/watch?v=nwomZwSHzF0&feature=share
+20221125-231038: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 25.11.22, 20 10 39.txt   url: https://youtube.com/watch?v=AcuB-6HhqhQ&feature=share
+20221125-231207: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 25.11.22, 20 08 03.txt   url: https://youtube.com/watch?v=_wIci7ZseRA&feature=share
+20221219-233123: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 19.12.22, 20 29 39.txt   url: https://youtube.com/watch?v=gL5d_xvdlPo&feature=share
+20221219-233409: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 19.12.22, 20 30 42.txt   url: https://youtube.com/watch?v=8FIdgDGGNqk&feature=share
+20221219-233647: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 19.12.22, 20 33 49.txt   url: https://youtube.com/watch?v=gjPSJTbncHE&feature=share
+20221219-233937: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 19.12.22, 20 45 29.txt   url: https://youtube.com/watch?v=SsNB7ND8d28&feature=share
+20230111-105726: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 10.01.23, 20 39 47.txt   url: https://youtube.com/watch?v=iuvAgxUJkoE&feature=share
+20230111-105857: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 10.01.23, 20 36 09.txt   url: https://youtube.com/watch?v=7aXZM8Y9APM&feature=share
+20230111-110212: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 10.01.23, 20 36 09.txt   url: https://youtube.com/watch?v=7aXZM8Y9APM&feature=share
+20230111-111403: YT-Download-error: /home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 10.01.23, 20 39 47.txt   url: https://youtube.com/watch?v=iuvAgxUJkoE&feature=share

@@ -20,7 +20,7 @@ while True:
   Betreff = str("I_YTDL4.1.py is working")
   sender_email = "sraspi21@gmail.com"
   receiver_email = "sraspi21@gmail.com"
-  password = "StJ19gmail"
+  password = "rwnqyynanebneqbj"
   #password = input("Type your password and press enter:")
 
   # Create a multipart message and set headers

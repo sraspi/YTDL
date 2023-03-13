@@ -1,7 +1,8 @@
-#Prozesszeit wird geloggt, Email täglich, Error-mail included, error 403-fixed, Stand 29.04.2020
+#Prozesszeit wird geloggt, Email taeglich, Error-mail included, error 403-fixed, NAS_error.log(1), unable to extract uploader ID fixed, s. code Stand 13.03.2023
 from __future__ import unicode_literals
 import subprocess
-import youtube_dl
+#import youtube_dl
+import yt_dlp
 import urllib
 import shutil
 import os
@@ -29,7 +30,7 @@ print("Python-version:", sys.version)
 print()
 print()
 #delete local mp3-folder and create new mp3-folder
-print("YTDL4.1.py startet (included backups and YT-cache error-handling)")
+print("YTDL4.4.py startet (included backups and YT-cache error-handling)")
 print()
 print()
 print("delete local mp3/mp4 folder")
@@ -58,7 +59,7 @@ while True:
   e = 0
   while i < n:
     filename = "/home/pi/Dropbox-Uploader/Dropbox/mp4/" + m[i]
-    f = open(filename), 'r'# txt-Datei öffnen
+    f = open(filename), 'r'# txt-Datei Ã¶ffnen
   
     
   
@@ -91,7 +92,11 @@ while True:
 
     }  
   
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl: 
+#with youtube_dl.YoutubeDL(ydl_opts) as ydl: --------------------funktioniert seit Anfang 2023 nicht mehr, deswegen import yt_dlp, vorher mit pip3 installiert
+#/usr/local/lib/python3.5/dist-packages/yt_dlp/extractor $ sudo nano youtube.py
+#mit strg w Zeile gesucht: 'uploader_id': self._search_regex(r'/(?:channel/|user/|(?=@))([^/?&#]+)', owner_profile_url, 'uploader id', default=None),
+#und geaendert(Zeile hier ist schon korrekt
           try:
               info_dict = ydl.extract_info(url, download=True)
               o = os.listdir(b)
@@ -102,24 +107,28 @@ while True:
               print()      
               timestr = time.strftime("%Y%m%d-%H%M%S")
               fobj_out = open(Dateiname,"a" )
-              fobj_out.write("YTDL4.1.py: " + timestr + ", " + trackname + ",        " + "url: " + url + '\n')
+              fobj_out.write("YTDL4.2.py: " + timestr + ", " + trackname + ",        " + "url: " + url + '\n')
               fobj_out.close()
               print("logfile appended", trackname)
               i = i +1
               
           
         
-          #subprocess.call("/home/pi/merge_mp3.sh") # merge ist offensichtlich nicht mehr nötig? Wäre hier!
+          #subprocess.call("/home/pi/merge_mp3.sh") # merge ist offensichtlich nicht mehr nÃ¶tig? WÃ¤re hier!
         
           
           except:
               print()
               timestr = time.strftime("%Y%m%d-%H%M%S")
-              fobj_out = open(errorlog,"a")
-              fobj_out.write(timestr + ": YT-Download-error: " + filename + "   url: " + url + '\n')
+              error = sys.exc_info()[1]
+              print(str(error))
+              fobj_out = open(Dateiname,"a")
+              fobj_out.write(timestr + ": YTDL-error: " + str(error) + filename + "   url: " + url + '\n')
               fobj_out.close()      
+              
+              
               subprocess.call("/home/pi/Dropbox-Uploader/Dropbox/Error-mail.sh")
-              print('YT-download error')
+              print(str(e))
               i = i + 1
               e = e + 1
 
@@ -136,7 +145,7 @@ while True:
     #delete mp4
   
     #filename_mp4 = "/home/pi/Dropbox-Uploader/Dropbox/mp4/" + m[i]
-    #f = open(filename_mp4)# Datei öffnen
+    #f = open(filename_mp4)# Datei Ã¶ffnen
     #os.remove(filename_mp4)
     #print("delete",filename_mp4 )
     
@@ -176,10 +185,15 @@ while True:
   t_diff = t2 -t1
   n = n - e
   timestr = time.strftime("%Y%m%d-%H%M%S")
+  f = open("/home/pi/NAS/error.log", "w")
+  f.write("1")
+  f.close()
+  print("YTDL NAS 1 written")
+
   fobj_out = open(Dateiname,"a" )
-  fobj_out.write('\n' + timestr + ": " + "required process-time:" + str(t_diff) + '\n' + '--------------------------------------' + '\n')
+  fobj_out.write('\n' + timestr + ": " + "PROCESS NORMAL FINISHED, required process-time:" + str(t_diff) + '\n' + '--------------------------------------' + '\n')
   fobj_out.close()
-  print(timestr, ": ", n, "Tracks uploaded to Dropbox/mp3! required process-time:", t_diff)
+  print(timestr, ": ", n, "Tracks processed! required process-time:", t_diff)
   
   
   

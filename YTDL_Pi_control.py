@@ -63,10 +63,10 @@ while True:
         #E-Mail an stefan.taubert.apweiler@gmail.com:
         print("E-Mail wird erstellt")
         Inhalt = (errorcontent)
-        Betreff = str("USS_Pi_control")
+        Betreff = str("YTDL_Pi_control")
         sender_email = "sraspi21@gmail.com"
         receiver_email = "stefan.taubert.apweiler@gmail.com"
-        password = "StJ19gmail"
+        password = "rwnqyynanebneqbj"
         #password = input("Type your password and press enter:")
 
         # Create a multipart message and set headers

@@ -1,7 +1,8 @@
 #Prozesszeit wird geloggt, Email täglich, Error-mail included, error 403-fixed, NAS_error.log(1), Stand 29.04.2021
 from __future__ import unicode_literals
 import subprocess
-import youtube_dl
+#import youtube_dl
+import yt_dlp 
 import urllib
 import shutil
 import os
@@ -29,7 +30,7 @@ print("Python-version:", sys.version)
 print()
 print()
 #delete local mp3-folder and create new mp3-folder
-print("YTDL4.2.py startet (included backups and YT-cache error-handling)")
+print("YTDL4.3.py startet (included backups and YT-cache error-handling)")
 print()
 print()
 print("delete local mp3/mp4 folder")
@@ -91,7 +92,8 @@ while True:
 
     }  
   
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    #with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl: 
           try:
               info_dict = ydl.extract_info(url, download=True)
               o = os.listdir(b)
@@ -115,11 +117,15 @@ while True:
           except:
               print()
               timestr = time.strftime("%Y%m%d-%H%M%S")
-              fobj_out = open(errorlog,"a")
-              fobj_out.write(timestr + ": YT-Download-error: " + filename + "   url: " + url + '\n')
+              e = sys.exc_info()[1]
+              print(str(e))
+              fobj_out = open(Dateiname,"a")
+              fobj_out.write(timestr + ": YTDL-error: " + str(e) + filename + "   url: " + url + '\n')
               fobj_out.close()      
+              
+              
               subprocess.call("/home/pi/Dropbox-Uploader/Dropbox/Error-mail.sh")
-              print('YT-download error')
+              print(str(e))
               i = i + 1
               e = e + 1
 
@@ -184,7 +190,7 @@ while True:
   fobj_out = open(Dateiname,"a" )
   fobj_out.write('\n' + timestr + ": " + "PROCESS NORMAL FINISHED, required process-time:" + str(t_diff) + '\n' + '--------------------------------------' + '\n')
   fobj_out.close()
-  print(timestr, ": ", n, "Tracks uploaded to Dropbox/mp3! required process-time:", t_diff)
+  print(timestr, ": ", n, "Tracks processed! required process-time:", t_diff)
   
   
   
