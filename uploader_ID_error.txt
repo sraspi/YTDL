@@ -1,0 +1,8 @@
+#import youtube_dl
+import yt_dlp
+
+#with youtube_dl.YoutubeDL(ydl_opts) as ydl: --------------------funktioniert seit Anfang 2023 nicht mehr, deswegen import yt_dlp, vorher mit pip3 installiert
+#/usr/local/lib/python3.5/dist-packages/yt_dlp/extractor $ sudo nano youtube.py
+#mit strg w Zeile gesucht: 'uploader_id': self._search_regex(r'/(?:channel/|user/|(?=@))([^/?&#]+)', owner_profile_url, 'uploader id', default=None),
+#und geaendert(Zeile hier ist schon korrekt
+
