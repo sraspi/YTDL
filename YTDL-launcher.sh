@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/python3
 #YTDL-laucher.sh
 cd /
 cd /home/pi/Dropbox-Uploader/Dropbox/

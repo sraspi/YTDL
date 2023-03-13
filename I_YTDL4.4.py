@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Prozesszeit wird geloggt, Email taeglich, Error-mail included, error 403-fixed, NAS_error.log(1), unable to extract uploader ID fixed, s. code Stand 13.03.2023
 from __future__ import unicode_literals
 import subprocess

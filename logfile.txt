@@ -2580,3 +2580,46 @@ YTDL4.2.py: 20230313-131409, Fatoni feat. Danger Dan - Danke dass du mich verlas
 
 20230313-131511: PROCESS NORMAL FINISHED, required process-time:0:00:03.588458
 --------------------------------------
+YTDL4.2.py: 20230313-144219, Fatoni - Wunderbare Welt (prod. Torky Tork & Dexter).mp3,        url: https://youtube.com/watch?v=TnVfIACGLKE&feature=share
+
+20230313-144236: PROCESS NORMAL FINISHED, required process-time:0:02:21.849043
+--------------------------------------
+YTDL4.2.py: 20230313-160339, Fatoni - Wunderbare Welt (prod. Torky Tork & Dexter).mp3,        url: https://youtube.com/watch?v=TnVfIACGLKE&feature=share
+
+20230313-160345: PROCESS NORMAL FINISHED, required process-time:0:02:15.046024
+--------------------------------------
+
+20230313-160413: PROCESS NORMAL FINISHED, required process-time:0:00:03.568154
+--------------------------------------
+
+20230313-160853: PROCESS NORMAL FINISHED, required process-time:0:00:02.925754
+--------------------------------------
+
+20230313-160854: PROCESS NORMAL FINISHED, required process-time:0:00:04.452871
+--------------------------------------
+
+20230313-161039: PROCESS NORMAL FINISHED, required process-time:0:00:04.302020
+--------------------------------------
+
+20230313-161133: PROCESS NORMAL FINISHED, required process-time:0:00:03.992264
+--------------------------------------
+
+20230313-161311: PROCESS NORMAL FINISHED, required process-time:0:00:03.465995
+--------------------------------------
+
+20230313-161443: PROCESS NORMAL FINISHED, required process-time:0:00:03.779041
+--------------------------------------
+
+20230313-161530: PROCESS NORMAL FINISHED, required process-time:0:00:03.070403
+--------------------------------------
+20230313-161619: YTDL-error: [0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on  https://github.com/yt-dlp/yt-dlp . Make sure you are using the latest version; see  https://github.com/yt-dlp/yt-dlp  on how to update. Be sure to call yt-dlp with the --verbose flag and include its complete output./home/pi/Dropbox-Uploader/Dropbox/mp4/Datei 13.03.23, 16 15 47.txt   url: https://youtube.com/watch?v=qfZbhJVgaEk&feature=share
+
+20230313-161623: PROCESS NORMAL FINISHED, required process-time:0:00:27.107017
+--------------------------------------
+
+20230313-200555: PROCESS NORMAL FINISHED, required process-time:0:00:03.551196
+--------------------------------------
+YTDL4.2.py: 20230313-200743, NF - MOTTO.mp3,        url: https://youtube.com/watch?v=0YKOxtOb44c&feature=share
+
+20230313-200801: PROCESS NORMAL FINISHED, required process-time:0:01:13.040520
+--------------------------------------
