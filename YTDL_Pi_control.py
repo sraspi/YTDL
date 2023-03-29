@@ -66,7 +66,7 @@ while True:
         Betreff = str("YTDL_Pi_control")
         sender_email = "sraspi21@gmail.com"
         receiver_email = "stefan.taubert.apweiler@gmail.com"
-        password = "rwnqyynanebneqbj"
+        password = "wphdfzdmmqqgaxak"
         #password = input("Type your password and press enter:")
 
         # Create a multipart message and set headers
