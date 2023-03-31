@@ -1,6 +1,5 @@
 from __future__ import unicode_literals
 import subprocess
-import youtube_dl
 import urllib
 import shutil
 import os
@@ -13,13 +12,19 @@ from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+s = open("/home/pi/PW.txt", "r")
+pw = s.read()
+s.close()
+print(pw)
+
+
 while True:
 #E-Mail an stefan.taubert.apweiler@gmail.com:
   Inhalt = ("wrong youtube-url? tried to download playlist? Check: sudo pip3 install --upgrade youtube_dl")
   Betreff = str("YTDL: some errors occured!")
   sender_email = "sraspi21@gmail.com"
   receiver_email = "sraspi21@gmail.com"
-  password = "wphdfzdmmqqgaxak"
+  password = pw
   #password = input("Type your password and press enter:")
 
   # Create a multipart message and set headers

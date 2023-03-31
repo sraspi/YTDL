@@ -15,11 +15,13 @@ import pytz
 import smtplib, ssl
 import email
 import smbus
+import sendmail
 from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+sendmail.sendmail()
 
 #Startzeit des Prozesses festlegen:
 t1 = datetime.now(pytz.utc)
@@ -187,6 +189,8 @@ while True:
   t_diff = t2 -t1
   n = n - e
   timestr = time.strftime("%Y%m%d-%H%M%S")
+
+  print("overrride error.log with 1")
   f = open("/home/pi/NAS/error.log", "w")
   f.write("1")
   f.close()
