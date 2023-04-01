@@ -1,6 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.8
 
-#Prozesszeit wird geloggt, Email taeglich, Error-mail included, error 403-fixed, NAS_error.log(1), unable to extract uploader ID fixed, s. code Stand 13.03.2023
+#Prozesszeit wird geloggt, Email taeglich, Error-mail included, error 403-fixed, NAS_error.log(1), unable to extract uploader ID fixed, s. code Stand 13.03.2023, cronjobs error fixed, pw deleted
 from __future__ import unicode_literals
 import subprocess
 #import youtube_dl
@@ -34,7 +34,7 @@ print("Python-version:", sys.version)
 print()
 print()
 #delete local mp3-folder and create new mp3-folder
-print("YTDL4.4.py startet (included backups and YT-cache error-handling)")
+print("YTDL4.5.py startet (included backups and YT-cache error-handling)")
 print()
 print()
 print("delete local mp3/mp4 folder")
@@ -63,7 +63,7 @@ while True:
   e = 0
   while i < n:
     filename = "/home/pi/Dropbox-Uploader/Dropbox/mp4/" + m[i]
-    f = open(filename), 'r'# txt-Datei Ã¶ffnen
+    f = open(filename), 'r'# txt-Datei oeffnen
   
     
   
@@ -118,7 +118,7 @@ while True:
               
           
         
-          #subprocess.call("/home/pi/merge_mp3.sh") # merge ist offensichtlich nicht mehr nÃ¶tig? WÃ¤re hier!
+          #subprocess.call("/home/pi/merge_mp3.sh") # merge ist offensichtlich nicht mehr gueltig? waere hier!
         
           
           except:
@@ -149,7 +149,7 @@ while True:
     #delete mp4
   
     #filename_mp4 = "/home/pi/Dropbox-Uploader/Dropbox/mp4/" + m[i]
-    #f = open(filename_mp4)# Datei Ã¶ffnen
+    #f = open(filename_mp4)# Datei oeffnen
     #os.remove(filename_mp4)
     #print("delete",filename_mp4 )
     
