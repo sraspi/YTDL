@@ -22,3 +22,43 @@
 
 20230401-090207: PROCESS NORMAL FINISHED, required process-time:0:00:03.483338
 --------------------------------------
+
+20230406-213249: PROCESS NORMAL FINISHED, required process-time:0:00:00.414444
+--------------------------------------
+
+20230406-213824: PROCESS NORMAL FINISHED, required process-time:0:00:00.287557
+--------------------------------------
+
+20230407-155816: PROCESS NORMAL FINISHED, required process-time:0:00:00.073085
+--------------------------------------
+
+20230407-155923: PROCESS NORMAL FINISHED, required process-time:0:00:12.816372
+--------------------------------------
+
+20230407-160209: PROCESS NORMAL FINISHED, required process-time:0:00:05.324083
+--------------------------------------
+
+20230407-160344: PROCESS NORMAL FINISHED, required process-time:0:00:07.817461
+--------------------------------------
+
+20230407-172755: PROCESS NORMAL FINISHED, required process-time:0:00:00.126858
+--------------------------------------
+
+20230407-173022: PROCESS NORMAL FINISHED, required process-time:0:00:00.072063
+--------------------------------------
+YTDL4.2.py: 20230407-173222, Al'Tarba X Vivi Zekid X 4bstr4ck3r - We danced feat Thomas Anton & Miscellaneous (official video).mp3,        url: https://youtube.com/watch?v=WBeZ9lSHTOA&feature=share
+
+20230407-173244: PROCESS NORMAL FINISHED, required process-time:0:01:42.489740
+--------------------------------------
+
+20230407-174140: PROCESS NORMAL FINISHED, required process-time:0:00:05.638279
+--------------------------------------
+
+20230407-175508: PROCESS NORMAL FINISHED, required process-time:0:00:05.298114
+--------------------------------------
+
+20230407-184622: PROCESS NORMAL FINISHED, required process-time:0:00:06.458623
+--------------------------------------
+
+20230407-191608: PROCESS NORMAL FINISHED, required process-time:0:00:05.727766
+--------------------------------------
